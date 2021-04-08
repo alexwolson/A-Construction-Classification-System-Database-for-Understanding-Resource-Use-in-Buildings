@@ -1,0 +1,659 @@
+﻿Code,Category
+A,Substructure
+B,Shell
+C,Interiors
+D,Services
+E,Equipment and Furnishings
+F,Special Construction And Demolition
+G,Sitework
+A10,Foundations
+A20,Subgrade Enclosures
+A40,Slabs-On-Grade
+A50,Substructure Interior
+A60,Water And Gas Mitigation
+A90,Substructure Related Activities
+B10,Superstructure
+B20,Exterior Vertical Enclosures
+B30,Exterior Horizontal Enclosures
+C10,Interior Construction
+C20,Interior Finishes
+D10,Conveying
+D20,Plumbing
+D30,"Heating, Ventilation, and Air Conditioning (HVAC)"
+D40,Fire Protection
+D50,Electrical
+D60,Communications
+D70,Electronic Safety And Security
+D80,Integrated Automation
+E10,Equipment
+E20,Furnishings
+F10,Special Construction
+F20,Facility Remediation
+F30,Demolition
+G10,Site Preparation
+G20,Site Improvements
+G30,Liquid And Gas Site Utilities
+G40,Electrical Site Improvements
+G50,Site Communications
+G90,Miscellaneous Site Construction
+A1010,Standard Foundations
+A1020,Special Foundations
+A2010,Walls for Subgrade Enclosures
+A4010,Standard Slabs-on-Grade
+A4020,Structural Slabs-on-Grade
+A4030,Slab Trenches
+A4040,Pits and Bases
+A4090,Slab-On-Grade Supplementary Components
+A5010,Floor Construction
+A5020,Interior Partitions
+A6010,Building Subdrainage
+A6020,Off-Gassing Mitigation
+A9010,Substructure Excavation
+A9020,Construction Dewatering
+A9030,Excavation Support
+A9040,Soil Treatment
+B1010,Floor Construction
+B1020,Roof Construction
+B1080,Stairs
+B2010,Exterior Walls
+B2020,Exterior Windows
+B2050,Exterior Doors and Grilles
+B2070,Exterior Louvers and Vents
+B2080,Exterior Wall Appurtenances
+B2090,Exterior Wall Specialties
+B3010,Roofing
+B3020,Roof Appurtenances
+B3040,Traffic Bearing Horizontal Enclosures
+B3060,Horizontal Openings
+B3080,Overhead Exterior Enclosures
+C1010,Interior Partitions
+C1020,Interior Windows
+C1030,Interior Doors
+C1040,Interior Grilles and Gates
+C1060,Raised Floor Construction
+C1070,Suspended Ceiling Construction
+C1090,Interior Specialties
+C2010,Wall Finishes
+C2020,Interior Fabrications
+C2030,Flooring
+C2040,Stair Finishes
+C2050,Ceiling Finishes
+C2090,Interior Finish Schedules
+D1010,Vertical Conveying Systems
+D1030,Horizontal Conveying
+D1050,Material Handling
+D1080,Operable Access Systems
+D2010,Domestic Water Distribution
+D2020,Sanitary Drainage
+D2030,Building Support Plumbing Systems
+D2050,General Service Compressed-Air
+D2060,Process Support Plumbing Systems
+D3010,Facility Fuel Systems
+D3020,Heating Systems
+D3030,Cooling Systems
+D3050,Facility HVAC Distribution Systems
+D3060,Ventilation
+D3070,Special Purpose HVAC Systems
+D4010,Fire Suppression
+D4030,Fire Protection Specialties
+D5010,Facility Power Generation
+D5020,Electrical Service and Distribution
+D5030,General Purpose Electrical Power
+D5040,Lighting
+D5080,Miscellaneous Electrical Systems
+D6010,Data Communications
+D6020,Voice Communications
+D6030,Audio-Video Communication
+D6060,Distributed Communications and Monitoring
+D6090,Communications Supplementary Components
+D7010,Access Control and Intrusion Detection
+D7030,Electronic Surveillance
+D7050,Detection and Alarm
+D7070,Electronic Monitoring and Control
+D7090,Electronic Safety and Security Supplementary Components
+D8010,Integrated Automation Facility Controls
+E1010,Vehicle and Pedestrian Equipment
+E1030,Commercial Equipment
+E1040,Institutional Equipment
+E1060,Residential Equipment
+E1070,Entertainment and Recreational Equipment
+E1090,Other Equipment
+E2010,Fixed Furnishings
+E2050,Movable Furnishings
+F1010,Integrated Construction
+F1020,Special Structures
+F1030,Special Function Construction
+F1050,Special Facility Components
+F1060,Athletic and Recreational Special Construction
+F1080,Special Instrumentation
+F2010,Hazardous Materials Remediation
+F3010,Structure Demolition
+F3030,Selective Demolition
+F3050,Structure Moving
+G1010,Site Clearing
+G1020,Site Elements Demolition
+G1030,Site Element Relocations
+G1050,Site Remediation
+G1070,Site Earthwork
+G2010,Roadways
+G2020,Parking Lots
+G2030,Pedestrian Plazas and Walkways
+G2040,Airfields
+G2050,"Athletic, Recreational, and Playfield Areas"
+G2060,Site Development
+G2080,Landscaping
+G3010,Water Utilities
+G3020,Sanitary Sewerage Utilities
+G3030,Storm Drainage Utilities
+G3050,Site Energy Distribution
+G3060,Site Fuel Distribution
+G3090,Liquid and Gas Site Utilities Supplementary Components
+G4010,Site Electric Distribution Systems
+G4050,Site Lighting
+G5010,Site Communications Systems
+G9010,Tunnels
+A1010.10,Wall Foundations
+A1010.30,Column Foundations
+A1010.90,Standard Foundation Supplementary Components
+A1020.10,Driven Piles
+A1020.15,Bored Piles
+A1020.20,Caissons
+A1020.30,Special Foundation Walls
+A1020.40,Foundation Anchors
+A1020.50,Underpinning
+A1020.60,Raft Foundations
+A1020.70,Pile Caps
+A1020.80,Grade Beams
+A2010.10,Subgrade Enclosure Wall Construction
+A2010.20,Subgrade Enclosure Wall Interior Skin
+A2010.90,Subgrade Enclosure Wall Supplementary Components
+A4010.10,Standard Slabs-on-Grade
+A4020.10,Structural Slabs-on-Grade
+A4030.10,Slab Trenches
+A4040.10,Pits and Bases
+A4090.10,Perimeter Insulation
+A4090.20,Vapor Retarder
+A4090.30,Waterproofing
+A4090.50 ,Mud Slab
+A4090.60,Subbase Layer
+A5010.10,Floor Structural Frame - A50
+A5010.20,"Floor Decks, Slabs, and Toppings - A50"
+A5010.30,Ramps - A50
+A5020.10,Interior Fixed Partitions - A50
+A6010.10,Foundation Drainage
+A6010.20,Underslab Drainage
+A6020.10,Radon Mitigation
+A6020.50,Methane Mitigation
+A9010.10,Backfill and Compaction
+A9020.10,Construction Dewatering
+A9030.10,Anchor Tiebacks
+A9030.20,Cofferdams
+A9030.40,Cribbing and Walers
+A9030.60,Ground Freezing
+A9030.70,Slurry Walls
+A9040.10,Soil Treatment
+B1010.10,Floor Structural Frame - B10
+B1010.20,"Floor Decks, Slabs, and Toppings - B10"
+B1010.30,Balcony Floor Construction
+B1010.40,Mezzanine Floor Construction
+B1010.50,Ramps - B10
+B1010.90,Floor Construction Supplementary Components
+B1020.10,Roof Structural Frame
+B1020.20,"Roof Decks, Slabs, and Sheathing"
+B1020.30,Canopy Construction
+B1020.90,Roof Construction Supplementary Components
+B1080.10,Stair Construction
+B1080.30,Stair Soffits
+B1080.50,Stair Railings
+B1080.60,Fire Escapes
+B1080.70,Metal Walkways
+B1080.80,Ladders
+B2010.10,Exterior Wall Veneer
+B2010.20,Exterior Wall Construction
+B2010.30,Exterior Wall Interior Skin
+B2010.40,Fabricated Exterior Wall Assemblies
+B2010.50,Parapets
+B2010.60,Equipment Screens
+B2010.80,Exterior Wall Supplementary Components
+B2010.90,Exterior Wall Opening Supplementary Components
+B2020.10,Exterior Operating Windows
+B2020.20,Exterior Fixed Windows
+B2020.30,Exterior Window Wall
+B2020.50,Exterior Special Function Windows
+B2050.10,Exterior Entrance Doors
+B2050.20,Exterior Utility Doors
+B2050.30,Exterior Oversize Doors
+B2050.40,Exterior Special Function Doors
+B2050.60,Exterior Grilles
+B2050.70,Exterior Gates
+B2050.90,Exterior Door Supplementary Components
+B2070.10,Exterior Louvers
+B2070.50,Exterior Vents
+B2080.10,Exterior Fixed Grilles and Screens
+B2080.30,Exterior Opening Protection Devices
+B2080.50,Exterior Balcony Walls and Railings
+B2080.70,Exterior Fabrications
+B2080.80,Bird Control Devices
+B2090.10,Exterior Wall Specialties
+B3010.10,Steep Slope Roofing
+B3010.50,Low-Slope Roofing
+B3010.70,Canopy Roofing
+B3010.90,Roofing Supplementary Components
+B3020.10,Roof Accessories
+B3020.30,Roof Specialties
+B3020.70,Rainwater Management
+B3040.10,Traffic Bearing Coatings
+B3040.30,Horizontal Waterproofing Membrane
+B3040.50,Wear Surfaces
+B3040.90,Horizontal Enclosure Supplementary Components
+B3060.10,Roof Windows and Skylights
+B3060.50,Vents and Hatches
+B3060.90,Horizontal Opening Supplementary Components
+B3080.10,Exterior Ceilings
+B3080.20,Exterior Soffits
+B3080.30,Exterior Bulkheads
+C1010.10,Interior Fixed Partitions - C10
+C1010.20,Interior Glazed Partitions
+C1010.40,Interior Demountable Partitions
+C1010.50,Interior Operable Partitions
+C1010.70,Interior Screens
+C1010.90,Interior Partition Supplementary Components
+C1020.10,Interior Operating Windows
+C1020.20,Interior Fixed Windows
+C1020.50,Interior Special Function Windows
+C1020.90,Interior Window Supplementary Components
+C1030.10,Interior Swinging Doors
+C1030.20,Interior Entrance Doors
+C1030.25,Interior Sliding Doors
+C1030.30,Interior Folding Doors
+C1030.40,Interior Coiling Doors
+C1030.50,Interior Panel Doors
+C1030.70,Interior Special Function Doors
+C1030.80,Interior Access Doors and Panels
+C1030.90,Interior Door Supplementary Components
+C1040.10,Interior Grilles
+C1040.50,Interior Gates
+C1060.10,Access Flooring
+C1060.30,Platform/Stage Floors
+C1070.10,Acoustical Suspended Ceilings
+C1070.20,Suspended Plaster and Gypsum Board Ceilings
+C1070.50,Specialty Suspended Ceilings
+C1070.70,Special Function Suspended Ceilings
+C1070.90,Ceiling Suspension Components
+C1090.10,Interior Railings and Handrails
+C1090.15,Interior Louvers
+C1090.20,Information Specialties
+C1090.25,Compartments and Cubicles
+C1090.30,Service Walls
+C1090.35,Wall and Door Protection
+C1090.40,"Toilet, Bath, and Laundry Accessories"
+C1090.45,Interior Gas Lighting
+C1090.50,Fireplaces and Stoves
+C1090.60,Safety Specialties
+C1090.70,Storage Specialties
+C1090.90,Other Interior Specialties
+C2010.10,Tile Wall Finish
+C2010.20,Wall Paneling
+C2010.30,Wall Coverings
+C2010.35,Wall Carpeting
+C2010.50,Stone Facing
+C2010.60,Special Wall Surfacing
+C2010.70,Wall Painting and Coating
+C2010.80,Acoustical Wall Treatment
+C2010.90,Wall Finish Supplementary Components
+C2020.10,Interior Fabrications
+C2030.10,Flooring Treatment
+C2030.20,Tile Flooring
+C2030.30,Specialty Flooring
+C2030.40,Masonry Flooring
+C2030.45,Wood Flooring
+C2030.50,Resilient Flooring
+C2030.60,Terrazzo Flooring
+C2030.70,Fluid-Applied Flooring
+C2030.75,Carpeting
+C2030.80,Athletic Flooring
+C2030.85,Entrance Flooring
+C2030.90,Flooring Supplementary Components
+C2040.20,Tile Stair Finish
+C2040.40,Masonry Stair Finish
+C2040.45,Wood Stair Finish
+C2040.50,Resilient Stair Finish
+C2040.60,Terrazzo Stair Finish
+C2040.75,Carpeted Stair Finish
+C2050.10,Plaster and Gypsum Board Finish
+C2050.20,Ceiling Paneling
+C2050.70,Ceiling Painting and Coating
+C2050.80,Acoustical Ceiling Treatment
+C2050.90,Ceiling Finish Supplementary Components
+D1010.10,Elevators
+D1010.20,Lifts
+D1010.30,Escalators
+D1010.50,Dumbwaiters
+D1010.60,Moving Ramps
+D1030.10,Moving Walks
+D1030.30,Turntables
+D1030.50,Passenger Loading Bridges
+D1030.70,People Movers
+D1050.10,Cranes
+D1050.20,Hoists
+D1050.30,Derricks
+D1050.40,Conveyors
+D1050.50,Baggage Handling Equipment
+D1050.60,Chutes
+D1050.70,Pneumatic Tube Systems
+D1080.10,Suspended Scaffolding
+D1080.20,Rope Climbers
+D1080.30,Elevating Platforms
+D1080.40,Powered Scaffolding
+D1080.50,Building Envelope Access
+D2010.10,Facility Potable-Water Storage Tanks
+D2010.20,Domestic Water Equipment
+D2010.40,Domestic Water Piping
+D2010.60,Plumbing Fixtures
+D2010.90,Domestic Water Distribution Supplementary
+D2020.10,Sanitary Sewerage Equipment
+D2020.30,Sanitary Sewerage Piping
+D2020.90,Sanitary Drainage Supplementary Components
+D2030.10,Stormwater Drainage Equipment
+D2030.20,Stormwater Drainage Piping
+D2030.30,Facility Stormwater Drains
+D2030.60,Gray Water Systems
+D2030.90,Building Support Plumbing System Supplementary Components
+D2050.10,General Service Compressed-Air
+D2060.10,Compressed-Air Systems
+D2060.20,Vacuum Systems
+D2060.30,Gas Systems
+D2060.40,Chemical-Waste Systems
+D2060.50,Processed Water Systems
+D2060.90,Process Support Plumbing System Supplementary Components
+D3010.10,Fuel Piping
+D3010.30,Fuel Pumps
+D3010.50,Fuel Storage Tanks
+D3020.10,Heat Generation
+D3020.30,Thermal Heat Storage
+D3020.70,Decentralized Heating Equipment
+D3020.90,Heating System Supplementary Components
+D3030.10,Central Cooling
+D3030.30,Evaporative Air-Cooling
+D3030.50,Thermal Cooling Storage
+D3030.70,Decentralized Cooling
+D3030.90,Cooling System Supplementary Components
+D3050.10,Facility Hydronic Distribution
+D3050.30,Facility Steam Distribution
+D3050.50,HVAC Air Distribution
+D3050.90,Facility Distribution Systems Supplementary Components
+D3060.10,Supply Air
+D3060.20,Return Air
+D3060.30,Exhaust Air
+D3060.40,Outside Air
+D3060.60,Air-to-Air Energy Recovery
+D3060.70,HVAC Air Cleaning
+D3060.90,Ventilation Supplementary Components
+D3070.10,Snow Melting
+D4010.10,Water-Based Fire-Suppression
+D4010.50,Fire-Extinguishing
+D4010.90,Fire Suppression Supplementary Components
+D4030.10,Fire Protection Cabinets
+D4030.30,Fire Extinguishers
+D4030.50,Breathing Air Replenishment Systems
+D4030.70,Fire Extinguisher Accessories
+D5010.10,Packaged Generator Assemblies
+D5010.20,Battery Equipment
+D5010.30,Photovoltaic Collectors
+D5010.40,Fuel Cells
+D5010.60,Power Filtering and Conditioning
+D5010.70,Transfer Switches
+D5010.90,Facility Power Generation Supplementary Components
+D5020.10,Electrical Service
+D5020.30,Power Distribution
+D5020.70,Facility Grounding
+D5020.90,Electrical Service and Distribution Supplementary Components
+D5030.10,Branch Wiring System
+D5030.50,Wiring Devices
+D5030.90,General Purpose Electrical Power Supplementary Components
+D5040.10,Lighting Control
+D5040.20,Branch Wiring for Lighting
+D5040.50,Lighting Fixtures
+D5040.90,Lighting Supplementary Components
+D5080.10,Lightning Protection
+D5080.40,Cathodic Protection
+D5080.70,Transient Voltage Suppression
+D5080.90,Miscellaneous Electrical Systems Supplementary Components
+D6010.10,Data Communications Network Equipment
+D6010.20,Data Communications Hardware
+D6010.30,Data Communications Peripheral Data Equipment
+D6010.50,Data Communications Software
+D6010.60,Data Communication Program and Integration Services
+D6020.10,Voice Communications Switching and Routing Equipment
+D6020.20,Voice Communications Terminal Equipment
+D6020.30,Voice Communications Messaging
+D6020.40,Call Accounting
+D6020.50,Call Management
+D6030.10,Audio-Video Systems
+D6030.50,Electronic Digital Systems
+D6060.10,Distributed Audio-Video Communications Systems
+D6060.30,Healthcare Communications and Monitoring
+D6060.50,Distributed Systems
+D6090.10,Supplementary Components
+D7010.10,Access Control
+D7010.50,Intrusion Detection
+D7030.10,Video Surveillance
+D7030.50,Electronic Personal Protection
+D7050.10,Fire Detection and Alarm
+D7050.20,Radiation Detection and Alarm
+D7050.30,Fuel-Gas Detection and Alarm
+D7050.40,Fuel-Oil Detection and Alarm
+D7050.50,Refrigeration Detection and Alarm
+D7050.60,Water Intrusion Detection and Alarm
+D7070.10,Electronic Detention Monitoring and Control
+D7090.10,Supplementary Components
+D8010.10,Integrated Automation Control of Equipment
+D8010.20,Integrated Automation Control of Conveying Equipment
+D8010.30,Integrated Automation Control of Fire-Suppression Systems
+D8010.40,Integrated Automation Control of Plumbing Systems
+D8010.50,Integrated Automation Control of HVAC Systems
+D8010.60,Integrated Automation Control of Electrical Systems
+D8010.70,Integrated Automation Control of Communication Systems
+D8010.80,Integrated Automation Control of Electronic Safety and Security Systems
+D8010.90,Integrated Automation Supplementary Components
+E1010.10,Vehicle Servicing Equipment
+E1010.30,Interior Parking Control Equipment
+E1010.50,Loading Dock Equipment
+E1010.70,Interior Pedestrian Control Equipment
+E1030.10,Mercantile and Service Equipment
+E1030.20,Vault Equipment
+E1030.25,Teller and Service Equipment
+E1030.30,Refrigerated Display Equipment
+E1030.35,Commercial Laundry and Dry Cleaning Equipment
+E1030.40,Maintenance Equipment
+E1030.50,Hospitality Equipment
+E1030.55,Unit Kitchens
+E1030.60,Photographic Processing Equipment
+E1030.70,"Postal, Packaging, and Shipping Equipment"
+E1030.75,Office Equipment
+E1030.80,Foodservice Equipment
+E1040.10,Educational and Scientific Equipment
+E1040.20,Healthcare Equipment
+E1040.40,Religious Equipment
+E1040.60,Security Equipment
+E1040.70,Detention Equipment
+E1060.10,Residential Appliances
+E1060.50,Retractable Stairs
+E1060.70,Residential Ceiling Fans
+E1070.10,Theater and Stage Equipment
+E1070.20,Musical Equipment
+E1070.50,Athletic Equipment
+E1070.60,Recreational Equipment
+E1090.10,Solid Waste Handling Equipment
+E1090.30,Agricultural Equipment
+E1090.40,Horticultural Equipment
+E1090.60,Decontamination Equipment
+E2010.10,Fixed Art
+E2010.20,Window Treatments
+E2010.30,Casework
+E2010.70,Fixed Multiple Seating
+E2010.90,Other Fixed Furnishings
+E2050.10,Movable Art
+E2050.30,Furniture
+E2050.40,Accessories
+E2050.60,Movable Multiple Seating
+E2050.90,Other Movable Furnishings
+F1010.10,Building Modules
+F1010.50,Manufactured Fabricated Rooms
+F1010.70,Modular Mezzanines
+F1020.10,Fabric Structures
+F1020.20,Space Frames
+F1020.30,Geodesic Structures
+F1020.40,Manufacturer-Engineered Structures
+F1020.60,Manufactured Canopies
+F1020.65,Rammed Earth Construction
+F1020.70,Towers
+F1030.10,Sound and Vibration Control
+F1030.30,Seismic Control
+F1030.50,Radiation Protection
+F1050.10,Pools
+F1050.20,Interior Fountains
+F1050.30,Interior Water Features
+F1050.40,Aquariums
+F1050.50,Amusement Park Structures and Equipment
+F1050.60,Ice Rinks
+F1050.70,Animal Containment
+F1060.10,Indoor Soccer Boards
+F1060.20,Safety Netting
+F1060.30,Arena Football Boards
+F1060.40,Floor Sockets
+F1060.50,Athletic and Recreational Court Walls
+F1060.60,Demountable Athletic Surfaces
+F1080.10,Stress Instrumentation
+F1080.20,Seismic Instrumentation
+F1080.40,Meteorological Instrumentation
+F1080.60,Earth Movement Monitoring
+F2010.10,Transportation and Disposal of Hazardous Materials
+F2010.20,Asbestos Remediation
+F2010.30,Lead Remediation
+F2010.40,Polychlorinate Biphenyl Remediation
+F2010.50,Mold Remediation
+F3010.10,Building Demolition
+F3010.30,Tower Demolition
+F3010.50,Bridge Demolition
+F3010.70,Dam Demolition
+F3030.10,Selective Building Demolition
+F3030.30,Selective Interior Demolition
+F3030.50,Selective Bridge Demolition
+F3030.70,Selective Historic Demolition
+F3050.10,Structure Relocation
+F3050.30,Structure Raising
+G1010.10,Clearing and Grubbing
+G1010.30,Tree and Shrub Removal and Trimming
+G1010.50,Earth Stripping and Stockpiling
+G1020.10,Utility Demolition
+G1020.30,Infrastructure Demolition
+G1020.50,Selective Site Demolition
+G1030.10,Utility Relocation Includes: Relocation of utility systems
+G1050.10,Physical Decontamination
+G1050.15,Chemical Decontamination
+G1050.20,Thermal Decontamination
+G1050.25,Biological Decontamination
+G1050.30,Remediation Soil Stabilization
+G1050.40,Site Containment
+G1050.45,Sinkhole Remediation
+G1050.50,Hazardous Waste Drum Handling
+G1050.60,Contaminated Site Material Removal
+G1050.80,Water Remediation
+G1070.10,Grading
+G1070.20,Excavation and Fill
+G1070.30,Embankments
+G1070.35,Erosion and Sedimentation Controls
+G1070.40,Soil Stabilization
+G1070.45,Rock Stabilization
+G1070.50,Soil Reinforcement
+G1070.55,Slope Protection
+G1070.60,Gabions
+G1070.65,Riprap
+G1070.70,Wetlands
+G1070.80,Earth Dams
+G1070.90,Site Soil Treatment
+G2010.10,Roadway Pavement
+G2010.20,Roadway Curbs and Gutters
+G2010.40,Roadway Appurtenances
+G2010.70,Roadway Lighting
+G2010.80,Vehicle Fare Collection
+G2020.10,Parking Lot Pavement
+G2020.20,Parking Lot Curbs and Gutters
+G2020.40,Parking Lot Appurtenances
+G2020.70,Parking Lot Lighting
+G2020.80,Exterior Parking Control Equipment
+G2030.10,Pedestrian Pavement
+G2030.20,Pedestrian Pavement Curbs and Gutters
+G2030.30,Exterior Steps and Ramps
+G2030.40,Pedestrian Pavement Appurtenances
+G2030.70,Plaza and Walkway Lighting
+G2030.80,Exterior Pedestrian Control Equipment
+G2040.10,Aviation Pavement
+G2040.20,Aviation Pavement Curbs and Gutters
+G2040.40,Aviation Pavement Appurtenances
+G2040.70,Airfield Lighting
+G2040.80,Airfield Signaling and Control Equipment
+G2050.10,Athletic Areas
+G2050.30,Recreational Areas
+G2050.50,Playfield Areas
+G2060.10,Exterior Fountains
+G2060.20,Fences and Gates
+G2060.25,Site Furnishings
+G2060.30,Exterior Signage
+G2060.35,Flagpoles
+G2060.40,Covers and Shelters
+G2060.45,Exterior Gas Lighting
+G2060.50,Site Equipment
+G2060.60,Retaining Walls
+G2060.70,Site Bridges
+G2060.80,Site Screening Devices
+G2060.85,Site Specialties
+G2080.10,Planting Irrigation
+G2080.20,Turf and Grasses
+G2080.30,Plants
+G2080.50,Planting Accessories
+G2080.70,Landscape Lighting
+G2080.80,Landscaping Activities
+G3010.10,Site Domestic Water Distribution
+G3010.30,Site Fire Protection Water Distribution
+G3010.50,Site Irrigation Water Distribution
+G3020.10,Sanitary Sewerage Utility Connection
+G3020.20,Sanitary Sewerage Piping
+G3020.40,Utility Septic Tanks
+G3020.50,Sanitary Sewerage Structures
+G3020.60,Sanitary Sewerage Lagoons
+G3030.10,Storm Drainage Utility Connection
+G3030.20,Storm Drainage Piping
+G3030.30,Culverts
+G3030.40,Site Storm Water Drains
+G3030.50,Storm Drainage Pumps
+G3030.60,Site Subdrainage
+G3030.70,Storm Drainage Ponds and Reservoirs
+G3050.10,Site Hydronic Heating Distribution
+G3050.20,Site Steam Energy Distribution
+G3050.40,Site Hydronic Cooling Distribution
+G3060.10,Site Gas Distribution
+G3060.20,Site Fuel-Oil Distribution
+G3060.30,Site Gasoline Distribution
+G3060.40,Site Diesel Fuel Distribution
+G3060.60,Site Aviation Fuel Distribution
+G3090.10,Supplementary Components
+G4010.10,Electrical Utility Services
+G4010.20,Electric Transmission and Distribution
+G4010.30,Electrical Substations
+G4010.40,Electrical Transformers
+G4010.50,Electrical Switchgear and Protection Devices
+G4010.70,Site Grounding
+G4010.90,Electrical Distribution System Instrumentation
+G4050.10,Area Lighting
+G4050.20,Flood Lighting
+G4050.50,Building Illumination
+G4050.90,Exterior Lighting Supplementary Components
+G5010.10,Site Communications Structures
+G5010.30,Site Communications Distribution
+G5010.50,Wireless Communications Distribution
+G9010.10,Vehicular Tunnels
+G9010.20,Pedestrian Tunnels
+G9010.40,Service Tunnels
+G9010.90,Tunnel Construction Related Activities

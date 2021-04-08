@@ -1,0 +1,12 @@
+﻿Building Type,Occupation,Building Code
+Apartment building,Residential,APB
+Institutional (Police Headquarters),Public,INS
+Commercial (Office),Commercial,OFF
+Educational building (University),Educational,EDU
+Single detached,Residential,SND
+Semi detached,Residential,SMD
+Detached accessory dwelling units,Residential,ADU
+Secondary units,Residential,SEC
+Townhouse,Residential,ROW
+"Mixed Use (Residential, Office & Cafe)",Mixed-use,MIX
+Laneway Suite,Residential,LNW
