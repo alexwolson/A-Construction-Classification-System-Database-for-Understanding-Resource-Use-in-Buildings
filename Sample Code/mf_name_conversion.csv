@@ -1,0 +1,1835 @@
+﻿Title,Code
+Concrete,03
+Masonry,04
+Metals,05
+WoodPlasticsAndComposites,06
+ThermalAndMoistureProtection,07
+Finishes,09
+Openings,08
+Earthwork,31
+ExteriorImprovements,32
+Concrete Forming and Accessories,03 10  
+Concrete Reinforcing,03 20  
+Cast-in-Place Concrete,03 30  
+Precast Concrete,03 40  
+Cast Decks and Underlayment,03 50 
+Grouting ,03 60 
+Mass Concrete,03 70 
+Concrete Cutting and Boring,03 80 
+Common Work Results for Masonry,04 05 
+Unit Masonry,04 20 
+Stone Assemblies,04 40 
+Refractory Masonry,04 50 
+Corrosion-Resistant Masonry ,04 60 
+Manufactured Masonry,04 70 
+Structural Metal Framing,05 10 
+Metal Joists,05 20 
+Metal Decking,05 30 
+Cold-Formed Metal Framing,05 40 
+Metal Fabrications,05 50 
+Decorative Metal,05 70 
+Rough Carpentry,06 10 
+Finish Carpentry,06 20 
+Architectural Woodwork,06 40 
+Structural Plastics,06 50 
+Plastic Fabrications,06 60 
+Structural Composites,06 70 
+Composite Fabrications,06 80 
+Dampproofing and Waterproofing,07 10 
+Thermal Protection,07 20 
+Weather Barriers,07 25 
+Steep Slope Roofing,07 30 
+Roofing and Siding Panels,07 40 
+Membrane Roofing,07 50 
+Flashing and Sheet Metal,07 60 
+Roof and Wall Specialties and Accessories ,07 70 
+Fire and Smoke Protection,07 80 
+Joint Protection,07 90 
+Doors and Frames,08 10 
+Specialty Doors and Frames,08 30 
+"Entrances, Storefronts, and Curtain Walls ",08 40 
+Windows,08 50 
+Roof Windows and Skylights,08 60 
+Hardware,08 70 
+Glazing,08 80 
+Louvers and Vents,08 90 
+Plaster and Gypsum Board,09 20 
+Tiling ,09 30 
+Ceilings ,09 50 
+Flooring ,09 60 
+Wall Finishes ,09 70 
+Acoustic Treatment ,09 80 
+Painting and Coating ,09 90 
+Site Clearing,31 10 
+Earth Moving,31 20 
+Earthwork Methods,31 30 
+Shoring and Underpinning,31 40 
+Excavation Support and Protection,31 50 
+Special Foundations and Load-Bearing Elements,31 60 
+Tunneling and Mining,31 70 
+"Bases, Ballasts, and Paving",32 10 
+Site Improvements,32 30 
+Wetlands,32 70 
+Irrigation,32 80 
+Planting,32 90 
+Concrete Forming,03 11 
+Concrete Accessories,03 15 
+Reinforcement Bars,03 21 
+Fabric and Grid Reinforcing,03 22 
+Stressed Tendon Reinforcing,03 23 
+Fibrous Reinforcing,03 24 
+Composite Reinforcing,03 25 
+Structural Concrete,03 31 
+Architectural Concrete,03 33 
+Low Density Concrete,03 34 
+Concrete Finishing,03 35 
+Specialty Placed Concrete,03 37 
+Post-Tensioned Concrete,03 38 
+Concrete Curing,03 39 
+Precast Structural Concrete,03 41 
+Precast Architectural Concrete,03 45 
+Site-Cast Concrete,03 47 
+Precast Concrete Specialties,03 48 
+Glass-Fiber-Reinforced Concrete,03 49 
+Cast Roof Decks,03 51 
+Lightweight Concrete Roof Insulation,03 52 
+Concrete Topping,03 53 
+Cast Underlayment,03 54 
+Cementitious Grouting,03 61 
+Non-Shrink Grouting,03 62 
+Epoxy Grouting,03 63 
+Injection Grouting,03 64 
+Mass Concrete for Raft Foundations,03 71 
+Mass Concrete for Dams,03 72 
+Concrete Cutting,03 81 
+Concrete Boring,03 82 
+Selective Demolition for Masonry,04 05 05
+Masonry Mortaring,04 05 13
+Masonry Grouting,04 05 16
+Masonry Anchorage and Reinforcing,04 05 19
+Masonry Strengthening,04 05 21
+Masonry Accessories,04 05 23
+Clay Unit Masonry,04 21 
+Concrete Unit Masonry,04 22 
+Glass Unit Masonry,04 23 
+Adobe Unit Masonry,04 24 
+Unit Masonry Panels,04 25 
+Single-Wythe Unit Masonry,04 26 
+Multiple-Wythe Unit Masonry,04 27 
+Concrete Form Masonry Units,04 28 
+Engineered Unit Masonry,04 29 
+Exterior Stone Cladding,04 42 
+Stone Masonry,04 43 
+Flue Liner Masonry,04 51 
+Combustion Chamber Masonry,04 52 
+Castable Refractory Masonry,04 53 
+Refractory Brick Masonry,04 54 
+Masonry Fireplaces,04 57 
+Chemical-Resistant Brick Masonry,04 61 
+Vitrified Clay Liner Plate,04 62 
+Manufactured Brick Masonry,04 71 
+Cast Stone Masonry,04 72 
+Manufactured Stone Masonry,04 73 
+Structural Steel Framing,05 12 
+Structural Stainless-Steel Framing,05 13 
+Structural Aluminum Framing,05 14 
+Wire Rope Assemblies,05 15 
+Structural Cabling,05 16 
+Structural Rod Assemblies,05 17 
+Tension Rod and Cable Truss Assemblies,05 19 
+Steel Joist Framing,05 21 
+Aluminum Joist Framing,05 25 
+Steel Decking,05 31 
+Aluminum Decking,05 33 
+Acoustical Metal Decking,05 34 
+Raceway Decking Assemblies,05 35 
+Composite Metal Decking,05 36 
+Structural Metal Stud Framing,05 41 
+Cold-Formed Metal Joist Framing,05 42 
+Slotted Channel Framing,05 43 
+Cold-Formed Metal Trusses,05 44 
+Metal Support Assemblies,05 45 
+Metal Stairs,05 51 
+Metal Railings,05 52 
+Metal Gratings,05 53 
+Metal Floor Plates,05 54 
+Metal Stair Treads and Nosings,05 55 
+Metal Castings,05 56 
+Formed Metal Fabrications,05 58 
+Metal Specialties,05 59 
+Decorative Metal Stairs,05 71 
+Decorative Metal Railings,05 73 
+Decorative Metal Castings,05 74 
+Decorative Formed Metal,05 75 
+Decorative Forged Metal,05 76 
+Decorative Extruded Metal,05 77 
+Wood Framing,06 11 
+Structural Panels,06 12 
+Heavy Timber Construction,06 13 
+Treated Wood Foundations,06 14 
+Wood Decking,06 15 
+Sheathing,06 16 
+Shop-Fabricated Structural Wood,06 17 
+Glued-Laminated Construction,06 18 
+Millwork,06 22 
+Prefinished Paneling,06 25 
+Board Paneling,06 26 
+Architectural Wood Casework,06 41 
+Wood Paneling,06 42 
+Wood Stairs and Railings,06 43 
+Ornamental Woodwork,06 44 
+Wood Trim,06 46 
+Wood Frames,06 48 
+Wood Screens and Shutters,06 49 
+Structural Plastic Shapes and Plates,06 51 
+Plastic Structural Assemblies,06 52 
+Plastic Decking,06 53 
+Cast Polymer Fabrications,06 61 
+Plastic Foam Fabrications,06 62  
+Plastic Railings,06 63 
+Plastic Trim,06 65 
+Custom Ornamental Simulated Woodwork,06 66 
+Structural Composite Shapes and Plates,06 71 
+Composite Structural Assemblies,06 72 
+Composite Decking,06 73 
+Composite Gratings,06 74 
+Composite Railings,06 81 
+Composite Trim,06 82 
+Composite Paneling,06 83 
+Dampproofing,07 11 
+Built-Up Bituminous Waterproofing,07 12 
+Sheet Waterproofing,07 13 
+Fluid-Applied Waterproofing,07 14 
+Sheet Metal Waterproofing,07 15 
+Cementitious and Reactive Waterproofing,07 16 
+Bentonite Waterproofing,07 17 
+Traffic Coatings,07 18 
+Water Repellents,07 19 
+Thermal Insulation,07 21 
+Roof and Deck Insulation,07 22 
+Exterior Insulation and Finish Systems,07 24 
+Vapor Retarders,07 26 
+Air Barriers,07 27 
+Shingles and Shakes,07 31 
+Roof Tiles,07 32 
+Natural Roof Coverings,07 33 
+Roof Panels,07 41 
+Wall Panels,07 42 
+Faced Panels,07 44 
+Siding,07 46 
+Built-Up Bituminous Roofing,07 51 
+Modified Bituminous Membrane Roofing,07 52 
+Elastomeric Membrane Roofing,07 53 
+Thermoplastic Membrane Roofing,07 54 
+Protected Membrane Roofing,07 55 
+Fluid-Applied Roofing,07 56 
+Coated Foamed Roofing,07 57 
+Roll Roofing,07 58 
+Sheet Metal Roofing,07 61 
+Sheet Metal Flashing and Trim,07 62 
+Sheet Metal Roofing Specialties,07 63 
+Sheet Metal Wall Cladding,07 64 
+Flexible Flashing,07 65 
+Roof Specialties,07 71 
+Roof Accessories,07 72 
+Roof Pavers,07 76 
+Wall Specialties,07 77 
+Applied Fireproofing,07 81 
+Board Fireproofing,07 82 
+Firestopping,07 84 
+Smoke Seals,07 86 
+Smoke Containment Barriers,07 87 
+Preformed Joint Seals,07 91 
+Joint Sealants,07 92 
+Expansion Control,07 95 
+Metal Doors and Frames,08 11 
+Metal Frames,08 12 
+Metal Doors,08 13 
+Wood Doors,08 14 
+Plastic Doors,08 15 
+Composite Doors,08 16 
+Integrated Door Opening Assemblies,08 17 
+Glass Doors,08 18 
+Access Doors and Panels,08 31 
+Coiling Doors and Grilles,08 33 
+Special Function Doors,08 34 
+Folding Doors and Grilles,08 35 
+Panel Doors,08 36 
+Traffic Doors,08 38 
+Pressure-Resistant Doors,08 39 
+Entrances and Storefronts,08 41 
+Entrances,08 42 
+Storefronts,08 43 
+Curtain Wall and Glazed Assemblies,08 44 
+Translucent Wall and Roof Assemblies,08 45 
+Window Wall Assemblies,08 46 
+Metal Windows,08 51 
+Wood Windows,08 52 
+Plastic Windows,08 53 
+Composite Windows,08 54 
+Pressure-Resistant Windows,08 55 
+Special Function Windows,08 56 
+Roof Windows,08 61 
+Unit Skylights,08 62 
+Metal-Framed Skylights,08 63 
+Plastic-Framed Skylights,08 64 
+Glazed Canopies,08 65 
+Skylight Protection and Screens,08 67 
+Door Hardware,08 71 
+Non-Integrated Access Control Hardware,08 74 
+Window Hardware,08 75 
+Special Function Hardware,08 78 
+Hardware Accessories,08 79 
+Glass Glazing,08 81 
+Mirrors,08 83 
+Plastic Glazing,08 84 
+Glazing Accessories,08 85 
+Glazing Surface Films,08 87 
+Special Function Glazing,08 88 
+Louvers,08 91 
+Louvered Equipment Enclosures,08 92 
+Vents,08 95 
+Plaster and Gypsum Board Assemblies,09 21 
+Supports for Plaster and Gypsum Board,09 22 
+Gypsum Plastering,09 23 
+Cement Plastering,09 24 
+Other Plastering,09 25 
+Veneer Plastering,09 26 
+Plaster Fabrications,09 27 
+Backing Boards and Underlayments,09 28 
+Gypsum Board,09 29 
+Tiling,09 30 
+Thin-Set Tiling,09 31 
+Mortar-Bed Tiling,09 32 
+Conductive Tiling,09 33 
+Waterproofing-Membrane Tiling,09 34 
+Chemical-Resistant Tiling,09 35 
+Acoustical Ceilings,09 51 
+Acoustical Ceiling Suspension Assemblies,09 53 
+Specialty Ceilings,09 54 
+Textured Ceilings,09 56 
+Special Function Ceilings,09 57 
+Integrated Ceiling Assemblies,09 58 
+Flooring Treatment,09 61 
+Specialty Flooring,09 62 
+Masonry Flooring,09 63 
+Wood Flooring,09 64 
+Resilient Flooring,09 65 
+Terrazzo Flooring,09 66 
+Fluid-Applied Flooring,09 67 
+Carpeting,09 68 
+Access Flooring,09 69 
+Wall Coverings,09 72 
+Wall Carpeting,09 73 
+Flexible Wood Sheets,09 74 
+Stone Facing,09 75 
+Plastic Blocks,09 76 
+Special Wall Surfacing,09 77 
+Interior Wall Paneling,09 78 
+Acoustic Insulation,09 81 
+Acoustic Finishes,09 83 
+Acoustic Room Components,09 84 
+Painting,09 91 
+Staining and Transparent Finishing,09 93 
+Decorative Finishing,09 94 
+High-Performance Coatings,09 96 
+Special Coatings,09 97 
+Clearing and Grubbing,31 11 
+Selective Clearing,31 12 
+Selective Tree and Shrub Removal and Trimming,31 13 
+Earth Stripping and Stockpiling,31 14 
+Off-Gassing Mitigation,31 21 
+Grading,31 22 
+Excavation and Fill,31 23 
+Embankments,31 24 
+Erosion and Sedimentation Controls,31 25 
+Soil Treatment,31 31 
+Soil Stabilization,31 32 
+Rock Stabilization,31 33 
+Soil Reinforcement,31 34 
+Slope Protection,31 35 
+Gabions,31 36 
+Riprap,31 37 
+Shoring,31 41 
+Concrete Raising,31 43 
+Vibroflotation and Densification,31 45 
+Needle Beams,31 46 
+Underpinning,31 48 
+Anchor Tiebacks,31 51 
+Cofferdams,31 52 
+Cribbing and Walers,31 53 
+Ground Freezing,31 54 
+Slurry Walls,31 56 
+Driven Piles,31 62 
+Bored Piles,31 63 
+Caissons,31 64 
+Special Foundations,31 66 
+Foundation Anchors,31 68 
+Tunnel Excavation,31 71 
+Tunnel Support Systems,31 72 
+Tunnel Grouting,31 73 
+Tunnel Construction,31 74 
+Shaft Construction,31 75 
+Submersible Tube Tunnels,31 77 
+Base Courses,32 11 
+Flexible Paving,32 12 
+Rigid Paving,32 13 
+Unit Paving,32 14 
+Aggregate Surfacing,32 15 
+"Curbs, Gutters, Sidewalks, and Driveways",32 16 
+Paving Specialties,32 17 
+Athletic and Recreational Surfacing,32 18 
+Fences and Gates,32 31 
+Retaining Walls,32 32 
+Site Furnishings,32 33 
+Fabricated Bridges,32 34 
+Screening Devices,32 35 
+Manufactured Site Specialties,32 39 
+Constructed Wetlands,32 71 
+Wetlands Restoration,32 72 
+Irrigation Components,32 81 
+Irrigation Pumps,32 82 
+Planting Irrigation,32 84 
+Agricultural Irrigation,32 86 
+Planting Preparation,32 91 
+Turf and Grasses,32 92 
+Plants,32 93 
+Planting Accessories,32 94 
+Exterior Planting Support Structures,32 95 
+Transplanting,32 96 
+Structural Cast-in-Place Concrete Forming,03 11 13
+Architectural Cast-in Place Concrete Forming,03 11 16
+Insulating Concrete Forming,03 11 19
+Permanent Stair Forming,03 11 23
+Permanent Tier Forming,03 11 26
+Waterstops,03 15 13
+Concrete Construction Joints,03 15 16
+Cast-In Concrete Anchors,03 15 19
+Termite Barrier,03 15 21
+Plain Steel Reinforcement Bars,03 21 11
+Galvanized Reinforcement Steel Bars,03 21 13
+Epoxy-Coated Reinforcement Steel Bars,03 21 16
+Stainless Steel Reinforcement Bars,03 21 19
+Composite Reinforcement Bars,03 21 21
+Galvanized Welded Wire Fabric Reinforcing,03 22 13
+Epoxy-Coated Welded Wire Fabric Reinforcing,03 22 16
+Composite Grid Reinforcing,03 22 19
+Glass Fiber-Reinforced Polymer Reinforcing,03 25 13
+Organic Fiber-Reinforced Polymer Reinforcing,03 25 16
+Carbon Fiber-Reinforced Polymer Reinforcing,03 25 19
+Miscellaneous Cast-in-Place Concrete,03 30 53
+Heavyweight Structural Concrete,03 31 13
+Lightweight Structural Concrete,03 31 16
+Shrinkage-Compensating Structural Concrete,03 31 19
+High-Performance Structural Concrete,03 31 23
+Ultra High-Performance Structural Concrete,03 31 24
+Self-Compacting Concrete,03 31 26
+Heavyweight Architectural Concrete,03 33 13
+Lightweight Architectural Concrete,03 33 16
+High-Tolerance Concrete Floor Finishing,03 35 13
+Heavy-Duty Concrete Floor Finishing,03 35 16
+Colored Concrete Finishing,03 35 19
+Exposed Aggregate Concrete Finishing,03 35 23
+Grooved Concrete Surface Finishing,03 35 26
+Tooled Concrete Finishing,03 35 29
+Stamped Concrete Finishing,03 35 33
+Polished Concrete Finishing,03 35 43
+Concrete Topical Treatments,03 35 46
+Shotcrete,03 37 13
+Pumped Concrete,03 37 16
+Pneumatically Placed Concrete,03 37 19
+Roller-Compacted Concrete,03 37 23
+Underwater Placed Concrete,03 37 26
+Post-Tensioned Concrete Preparation,03 38 13
+Unbonded Post-Tensioned Concrete,03 38 16
+Bonded Post-Tensioned Concrete,03 38 19
+Water Concrete Curing,03 39 13
+Sand Concrete Curing,03 39 16
+Membrane Concrete Curing,03 39 23
+Precast Concrete Hollow Core Planks,03 41 13
+Precast Concrete Slabs,03 41 16
+Precast Concrete Stairs,03 41 23
+Precast Structural Pretensioned Concrete,03 41 33
+Precast Structural Post-Tensioned Concrete,03 41 36
+Faced Architectural Precast Concrete,03 45 13
+Precast Architectural Pretensioned Concrete,03 45 33
+Precast Architectural Post-Tensioned Concrete,03 45 36
+Tilt-Up Concrete,03 47 13
+Lift-Slab Concrete,03 47 16
+Precast Concrete Bollards,03 48 13
+Precast Concrete Splash Blocks,03 48 16
+Precast Concrete Stair Treads,03 48 19
+Precast Concrete Parking Bumpers,03 48 26
+Precast Pre-Framed Concrete Panels,03 48 33
+Precast Concrete Trim,03 48 43
+Glass-Fiber-Reinforced Concrete Column Covers,03 49 13
+Glass-Fiber-Reinforced Concrete Spandrels,03 49 16
+Glass-Fiber-Reinforced Concrete Trim,03 49 43
+Cementitious Wood Fiber Decks,03 51 13
+Gypsum Concrete Roof Decks,03 51 16
+Composite Concrete Roof Insulation,03 52 13
+Lightweight Insulating Concrete,03 52 16
+Emery-Aggregate Concrete Topping,03 53 13
+Iron-Aggregate Concrete Topping,03 53 16
+Concrete Overlayment,03 53 19
+Gypsum Cement Underlayment,03 54 13
+Hydraulic Cement Underlayment,03 54 16
+Dry-Pack Grouting,03 61 13
+Non-Metallic Non-Shrink Grouting,03 62 13
+Metallic Non-Shrink Grouting,03 62 16
+Epoxy Injection Grouting,03 64 23
+Flat Concrete Sawing,03 81 13
+Track Mounted Concrete Wall Sawing,03 81 16
+Wire Concrete Wall Sawing,03 81 19
+Hand Concrete Wall Sawing,03 81 23
+Chain Concrete Wall Sawing,03 81 26
+Concrete Core Drilling,03 82 13
+Selective Demolition for Masonry,04 05 05
+Masonry Mortaring,04 05 13
+Masonry Grouting,04 05 16
+Masonry Anchorage and Reinforcing,04 05 19
+Masonry Strengthening,04 05 21
+Masonry Accessories,04 05 23
+Brick Masonry,04 21 13
+Ceramic Glazed Clay Masonry,04 21 16
+Clay Tile Masonry,04 21 19
+Structural Clay Tile Masonry,04 21 23
+Glazed Structural Clay Tile Masonry,04 21 26
+Terra Cotta Masonry,04 21 29
+Insulated Concrete Unit Masonry,04 22 19
+Architectural Concrete Unit Masonry,04 22 23
+Autoclaved Aerated Concrete Unit Masonry,04 22 26
+Interlocking Concrete Unit Masonry,04 22 33
+Vertical Glass Unit Masonry,04 23 13
+Glass Unit Masonry Floors,04 23 16
+Glass Unit Masonry Skylights,04 23 19
+Site-Cast Adobe Unit Masonry,04 24 13
+Manufactured Adobe Unit Masonry,04 24 16
+Metal-Supported Unit Masonry Panels,04 25 13
+Masonry Veneer,04 26 13
+Composite Unit Masonry,04 27 13
+Cavity Wall Unit Masonry,04 27 23
+"Dry-Stacked, Concrete-Filled Masonry Units",04 28 13
+"Mortar-Set, Concrete-Filled Masonry Units",04 28 23
+Dry-Placed Stone,04 41 
+Masonry-Supported Stone Cladding,04 42 13
+Steel-Stud-Supported Stone Cladding,04 42 16
+Strongback-Frame-Supported Stone Cladding,04 42 19
+Truss-Supported Stone Cladding,04 42 23
+Grid-System-Supported Stone Cladding,04 42 26
+Stone Panels for Curtain Walls,04 42 43
+Stone Masonry Veneer,04 43 13
+Stone Fabrications,04 43 16
+Modular Masonry Fireplaces,04 57 33
+Calcium Silicate Manufactured Brick Masonry,04 71 13
+Calcium Silicate Manufactured Stone Masonry,04 73 13
+Lightweight Synthetic Stone,04 73 23
+Architecturally-Exposed Structural Steel Framing,05 12 13
+Fabricated Fireproofed Steel Columns,05 12 16
+Buckling Restrained Braces,05 12 19
+Structural Steel for Buildings,05 12 23
+Structural Steel for Bridges,05 12 33
+Architecturally-Exposed Structural Aluminum Framing,05 14 13
+Aluminum Wire Rope Assemblies,05 15 13
+Steel Wire Rope Assemblies,05 15 16
+Stainless-Steel Wire Rope Assemblies,05 15 19
+Cable Bow Truss Assemblies,05 16 13
+Bridge Cabling,05 16 33
+Façade Support Truss Assemblies,05 19 13
+Canopy Support Truss Assemblies,05 19 19
+Deep Longspan Steel Joist Framing,05 21 13
+Longspan Steel Joist Framing,05 21 16
+Open Web Steel Joist Framing,05 21 19
+Steel Joist Girder Framing,05 21 23
+Steel Floor Decking,05 31 13
+Steel Roof Decking,05 31 23
+Steel Form Decking,05 31 33
+Aluminum Floor Decking,05 33 13
+Aluminum Roof Decking,05 33 23
+Composite Steel Plate and Elastomer Decking,05 36 13
+Cold-Formed Metal Floor Joist Framing,05 42 13
+Cold-Formed Metal Roof Joist Framing,05 42 23
+Cold-Formed Metal Roof Trusses,05 44 13
+Mechanical Metal Supports,05 45 13
+Electrical Metal Supports,05 45 16
+Communications Metal Supports,05 45 19
+Healthcare Metal Supports,05 45 23
+Metal Pan Stairs,05 51 13
+Metal Floor Plate Stairs,05 51 16
+Alternating Tread Stairs,05 51 17
+Metal Grating Stairs,05 51 19
+Metal Fire Escapes,05 51 23
+Metal Ladders,05 51 33
+Metal Walkways,05 51 36
+Pipe and Tube Railings,05 52 13
+Bar Gratings,05 53 13
+Plank Gratings,05 53 16
+Expanded Metal Gratings,05 53 19
+Metal Stair Treads,05 55 13
+Metal Stair Nosings,05 55 16
+Column Covers,05 58 13
+Formed Metal Enclosures,05 58 16
+Heating/Cooling Unit Covers,05 58 19
+Formed Metal Guards,05 58 23
+Metal Balconies,05 59 13
+Detention Enclosures,05 59 63
+Fabricated Metal Spiral Stairs,05 71 13
+Glazed Decorative Metal Railings,05 73 13
+Wire Rope Decorative Metal Railings,05 73 16
+Miscellaneous Rough Carpentry,06 10 53
+Exterior Rough Carpentry,06 10 63
+Engineered Wood Products,06 11 13
+Mechanically Graded Lumber,06 11 16
+Cementitious Reinforced Panels,06 12 13
+Stressed Skin Panels,06 12 16
+Log Construction,06 13 13
+Pole Construction,06 13 16
+Heavy Timber Framing,06 13 23
+Heavy Timber Trusses,06 13 26
+Heavy Timber Pier Construction,06 13 33
+Wood Floor Decking,06 15 13
+Wood Roof Decking,06 15 16
+Timber Decking,06 15 19
+Laminated Wood Decking,06 15 23
+Wood Patio Decking,06 15 33
+Insulating Sheathing,06 16 13
+Subflooring,06 16 23
+Underlayment,06 16 26
+Wood Board Sheathing,06 16 33
+Wood Panel Product Sheathing,06 16 36
+Gypsum Sheathing,06 16 43
+Moisture-Resistant Sheathing Board,06 16 53
+Cementitious Sheathing,06 16 63
+Laminated Veneer Lumber,06 17 13
+Cross-Laminated Timber,06 17 19
+Dowel-Laminated Timber,06 17 21
+Parallel Strand Lumber,06 17 23
+Wood I-Joists,06 17 33
+Metal-Web Wood Joists,06 17 36
+Rim Boards,06 17 43
+Shop-Fabricated Wood Trusses,06 17 53
+Glued-Laminated Beams,06 18 13
+Glued-Laminated Columns,06 18 16
+Exterior Finish Carpentry,06 20 13
+Interior Finish Carpentry,06 20 23
+Standard Pattern Wood Trim,06 22 13
+Prefinished Hardboard Paneling,06 25 13
+Prefinished Plywood Paneling,06 25 16
+Profile Board Paneling,06 26 13
+Exterior Architectural Woodwork,06 40 13
+Interior Architectural Woodwork,06 40 23
+Wood-Veneer-Faced Architectural Cabinets,06 41 13
+Plastic-Laminate-Clad Architectural Cabinets,06 41 16
+Cabinet and Drawer Hardware,06 41 93
+Wood Board Paneling,06 42 13
+Stile and Rail Wood Paneling,06 42 14
+Flush Wood Paneling,06 42 16
+Plastic-Laminate-Faced Wood Paneling,06 42 19
+Wood Stairs,06 43 13
+Wood Railings,06 43 16
+Wood Turnings,06 44 13
+Wood Pilasters,06 44 16
+Wood Grilles,06 44 19
+Wood Corbels,06 44 23
+Wood Cupolas,06 44 26
+Wood Finials,06 44 29
+Wood Mantels,06 44 33
+Wood Pediment Heads,06 44 36
+Wood Posts and Columns,06 44 39
+Wood Door and Window Casings,06 46 13
+Wood Aprons,06 46 16
+Wood Base and Shoe Moldings,06 46 19
+Wood Chair Rails,06 46 23
+Wood Cornices,06 46 26
+Wood Fasciae and Soffits,06 46 29
+"Wood Stops, Stools, and Sills",06 46 33
+Splicing of Wooden Components,06 46 91
+Exterior Wood Door Frames,06 48 13
+Interior Wood Door Frames,06 48 16
+Ornamental Wood Frames,06 48 19
+Stick-Built Wood Windows,06 48 23
+Wood-Veneer Frames,06 48 26
+Wood Screens,06 49 13
+Wood Blinds,06 49 16
+Wood Shutters,06 49 19
+Plastic Lumber,06 51 13
+Solid Plastic Decking,06 53 13
+Simulated Stone Fabrications,06 61 13
+Solid Surfacing Fabrications,06 61 16
+Plastic Paneling,06 64 
+Plastic Lattice Paneling,06 64 13
+Composite Lumber,06 71 13
+Composite Joist Assemblies,06 72 13
+Composite Stair Assemblies,06 72 23
+Composite Structural Decking,06 73 13
+Fiberglass Reinforced Gratings,06 74 13
+Glass-Fiber-Reinforced Plastic Railings,06 81 13
+Resin Composite Paneling,06 83 13
+Fiberglass Reinforced Paneling,06 83 16
+Bituminous Dampproofing,07 11 13
+Cementitious Dampproofing,07 11 16
+Sheet Dampproofing,07 11 19
+Built-Up Asphalt Waterproofing,07 12 13
+Built-Up Coal Tar Waterproofing,07 12 16
+Bituminous Sheet Waterproofing,07 13 13
+Self-Adhering Sheet Waterproofing,07 13 26
+Modified Bituminous Sheet Waterproofing,07 13 52
+Elastomeric Sheet Waterproofing,07 13 53
+Thermoplastic Sheet Waterproofing,07 13 54
+Hot Fluid-Applied Rubberized Asphalt Waterproofing,07 14 13
+Hot Fluid-Applied Polyurea Waterproofing,07 14 14
+Cold Fluid-Applied Waterproofing,07 14 16
+Sheet Lead Waterproofing,07 15 13
+Polymer Modified Cement Waterproofing,07 16 13
+Crystalline Waterproofing,07 16 16
+Metal Oxide Waterproofing,07 16 19
+Bentonite Panel Waterproofing,07 17 13
+Bentonite Composite Sheet Waterproofing,07 17 16
+Pedestrian Traffic Coatings,07 18 13
+Vehicular Traffic Coatings,07 18 16
+Acrylic Water Repellents,07 19 13
+Silane Water Repellents,07 19 16
+Silicone Water Repellents,07 19 19
+Siloxane Water Repellents,07 19 23
+Stearate Water Repellents,07 19 26
+Penetrating Polyester Water Repellents,07 19 29
+Board Insulation,07 21 13
+Blanket Insulation,07 21 16
+Foamed-In-Place Insulation,07 21 19
+Loose-Fill Insulation,07 21 23
+Blown Insulation,07 21 26
+Sprayed Insulation,07 21 29
+Reflective Insulation,07 21 53
+Fluid-Applied Insulative Coating,07 21 63
+Asphaltic Perlite Concrete Deck,07 22 13
+Roof Board Insulation,07 22 16
+Polymer-Based Exterior Insulation and Finish System,07 24 13
+Polymer-Modified Exterior Insulation and Finish System,07 24 16
+Water-Drainage Exterior Insulation and Finish System,07 24 19
+Direct-Applied Finish Systems,07 24 23
+Above-Grade Vapor Retarders,07 26 13
+Below-Grade Vapor Retarders,07 26 16
+Below-Grade Gas Retarders,07 26 23
+Modified Bituminous Sheet Air Barriers,07 27 13
+Sheet Metal Membrane Air Barriers,07 27 16
+Plastic Sheet Air Barriers,07 27 19
+Board Product Air Barriers,07 27 23
+Fluid-Applied Membrane Air Barriers,07 27 26
+Sprayed Foam Air Barrier,07 27 36
+Canvas Roofing,07 30 91
+Asphalt Shingles,07 31 13
+Metal Shingles,07 31 16
+Mineral-Fiber Cement Shingles,07 31 19
+Porcelain Enamel Shingles,07 31 23
+Slate Shingles,07 31 26
+Wood Shingles and Shakes,07 31 29
+Composite Rubber Shingles,07 31 33
+Plastic Shakes,07 31 53
+Clay Roof Tiles,07 32 13
+Ceramic and Porcelain Roof Tiles,07 32 14
+Concrete Roof Tiles,07 32 16
+Metal Roof Tiles,07 32 19
+Mineral-Fiber Cement Roof Tiles,07 32 23
+Plastic Roof Tiles,07 32 26
+Rubber Tiles/Panels,07 32 29
+Sod Roofing,07 33 13
+Thatched Roofing,07 33 16
+Vegetated Steep-Slope Roofing,07 33 63
+Metal Roof Panels,07 41 13
+Insulated Metal Roof Panels,07 41 16
+Wood Roof Panels,07 41 23
+Plastic Roof Panels,07 41 33
+Composite Roof Panels,07 41 43
+Fabricated Roof Panel Assemblies,07 41 63
+Metal Wall Panels,07 42 13
+Wood Wall Panels,07 42 23
+Tile Wall Panels,07 42 26
+Terra Cotta Wall Panels,07 42 29
+Plastic Wall Panels,07 42 33
+Composite Wall Panels,07 42 43
+Cementitious Wall Panels,07 42 46
+Fabricated Wall Panel Assemblies,07 42 63
+Soffit Panels,07 42 93
+Aggregate Coated Panels,07 44 13
+Porcelain Enameled Faced Panels,07 44 16
+Tile-Faced Panels,07 44 19
+Ceramic-Tile-Faced Panels,07 44 23
+Metal Faced Panels,07 44 33
+Glass-Fiber-Reinforced Cementitious Panels,07 44 53
+Mineral-Fiber-Reinforced Cementitious Panels,07 44 56
+Fabricated Faced Panel Assemblies,07 44 63
+Aluminum Siding,07 46 16
+Steel Siding,07 46 19
+Zinc Siding,07 46 21
+Wood Siding,07 46 23
+Wood Shingle and Shake Siding,07 46 24
+Hardboard Siding,07 46 26
+Plywood Siding,07 46 29
+Plastic Siding,07 46 33
+Composition Siding,07 46 43
+Fiber-Cement Siding,07 46 46
+Fabricated Panel Assemblies with Siding,07 46 63
+Built-Up Asphalt Roofing,07 51 13
+Built-Up Coal Tar Roofing,07 51 16
+Glass-Fiber-Reinforced Asphalt Emulsion Roofing,07 51 23
+Atactic-Polypropylene-Modified Bituminous Membrane Roofing,07 52 13
+Styrene-Butadiene-Styrene Modified Bituminous Membrane Roofing,07 52 16
+Chlorinated-Polyethylene Roofing,07 53 13
+Chlorosulfonate-Polyethylene Roofing,07 53 16
+Ethylene-Propylene-Diene-Monomer Roofing,07 53 23
+Polyisobutylene Roofing,07 53 29
+Copolymer-Alloy Roofing,07 54 13
+Ketone Ethylene Ester Roofing,07 54 16
+Polyvinyl-Chloride Roofing,07 54 19
+Thermoplastic-Polyolefin Roofing,07 54 23
+Nitrile-Butadiene-Polymer Roofing,07 54 26
+Built-Up Bituminous Protected Membrane Roofing,07 55 51
+Modified Bituminous Protected Membrane Roofing,07 55 52
+Elastomeric Protected Membrane Roofing,07 55 53
+Thermoplastic Protected Membrane Roofing,07 55 54
+Fluid-Applied Protected Membrane Roofing,07 55 56
+Vegetated Protected Membrane Roofing,07 55 63
+Sprayed Polyurethane Foam Roofing,07 57 13
+Standing Seam Sheet Metal Roofing,07 61 13
+Batten Seam Sheet Metal Roofing,07 61 16
+Flat Seam Sheet Metal Roofing,07 61 19
+Fabricated Copings,07 62 13
+Fabricated Counterflashing Systems,07 62 16
+Fabricated Gravel Stops and Fasciae,07 62 19
+Fabricated Gutters and Downspouts,07 62 23
+Fabricated Roof Expansion Joints,07 62 29
+Fabricated Scuppers,07 62 33
+Standing Seam Sheet Metal Wall Cladding,07 64 13
+Batten Seam Sheet Metal Wall Cladding,07 64 16
+Flat Seam Sheet Metal Wall Cladding,07 64 19
+Laminated Sheet Flashing,07 65 13
+Modified Bituminous Sheet Flashing,07 65 16
+Plastic Sheet Flashing,07 65 19
+Rubber Sheet Flashing,07 65 23
+Self-Adhering Sheet Flashing,07 65 26
+Manufactured Copings,07 71 13
+Manufactured Counterflashing Systems,07 71 16
+Manufactured Gravel Stops and Fasciae,07 71 19
+Manufactured Gutters and Downspouts,07 71 23
+Reglets,07 71 26
+Manufactured Roof Expansion Joints,07 71 29
+Manufactured Scuppers,07 71 33
+Manufactured Curbs,07 72 13
+Relief Vents,07 72 23
+Ridge Vents,07 72 26
+Roof Hatches,07 72 33
+Smoke Vents,07 72 36
+Operable Roof Vents,07 72 39
+Roof Walk Boards,07 72 43
+Roof Walkways,07 72 46
+Snow Guards,07 72 53
+Waste Containment Assemblies,07 72 63
+Vegetated Roof Systems,07 72 73
+Roof Ballast Pavers,07 76 13
+Roof Decking Pavers,07 76 16
+Cement Aggregate Fireproofing,07 81 13
+Cementitious Fireproofing,07 81 16
+Foamed Magnesium-Oxychloride Fireproofing,07 81 19
+Intumescent Fireproofing,07 81 23
+Magnesium Cement Fireproofing,07 81 26
+Mineral-Fiber Cementitious Fireproofing,07 81 29
+Mineral-Fiber Fireproofing,07 81 33
+Calcium-Silicate Board Fireproofing,07 82 13
+Slag-Fiber Board Fireproofing,07 82 16
+Penetration Firestopping,07 84 13
+Joint Firestopping,07 84 43
+Building Perimeter Firestopping,07 84 53
+Compression Seals,07 91 13
+Joint Gaskets,07 91 16
+Backer Rods,07 91 23
+Joint Fillers,07 91 26
+Elastomeric Joint Sealants,07 92 13
+Rigid Joint Sealants,07 92 16
+Acoustical Joint Sealants,07 92 19
+Expansion Joint Cover Assemblies,07 95 13
+Joint Slide Bearings,07 95 53
+Bridge Expansion Joint Cover Assemblies,07 95 63
+Hollow Metal Doors and Frames,08 11 13
+Aluminum Doors and Frames,08 11 16
+Stainless-Steel Doors and Frames,08 11 19
+Bronze Doors and Frames,08 11 23
+Metal Screen and Storm Doors and Frames,08 11 63
+Metal Screen Doors and Frames,08 11 66
+Metal Storm Doors and Frames,08 11 69
+Sliding Metal Fire Doors,08 11 73
+Sliding Metal Grilles,08 11 74
+Hollow Metal Frames,08 12 13
+Aluminum Frames,08 12 16
+Stainless-Steel Frames,08 12 19
+Bronze Frames,08 12 23
+Hollow Metal Doors,08 13 13
+Aluminum Doors,08 13 16
+Stainless-Steel Doors,08 13 19
+Bronze Doors,08 13 23
+Sliding Metal Doors,08 13 73
+Bifolding Metal Doors,08 13 76
+Carved Wood Doors,08 14 13
+Flush Wood Doors,08 14 16
+Clad Wood Doors,08 14 23
+Prefinished Wood Doors,08 14 29
+Stile and Rail Wood Doors,08 14 33
+Wood Screen Doors,08 14 66
+Wood Storm Doors,08 14 69
+Sliding Wood Doors,08 14 73
+Bifolding Wood Doors,08 14 76
+Laminated Plastic Doors,08 15 13
+Solid Plastic Doors,08 15 16
+Plastic Screen Doors,08 15 66
+Plastic Storm Doors,08 15 69
+Sliding Plastic Doors,08 15 73
+Bifolding Plastic Doors,08 15 76
+Fiberglass Doors,08 16 13
+Sliding Composite Doors,08 16 73
+Bifolding Composite Doors,08 16 76
+Integrated Metal Door Opening Assemblies,08 17 13
+Integrated Wood Door Opening Assemblies,08 17 23
+Integrated Plastic Door Opening Assemblies,08 17 33
+Integrated Composite Door Opening Assemblies,08 17 43
+Swinging Glass Doors,08 18 13
+Sliding Glass Doors,08 18 16
+Bifolding Glass Doors,08 18 19
+Access Doors and Frames,08 31 13
+Access Panels and Frames,08 31 16
+Floor Doors,08 31 23
+Coiling Counter Doors,08 33 13
+Coiling Counter Grilles,08 33 16
+Overhead Coiling Doors,08 33 23
+Overhead Coiling Grilles,08 33 26
+Side Coiling Doors,08 33 33
+Side Coiling Grilles,08 33 36
+Overhead Coiling Smoke Curtains,08 33 43
+Overhead Coiling Fire Curtains,08 33 44
+Cold Storage Doors,08 34 13
+Hangar Doors,08 34 16
+Industrial Doors,08 34 19
+Lightproof Doors,08 34 33
+Darkroom Doors,08 34 36
+Radio-Frequency-Interference Shielding Doors,08 34 46
+Radiation Shielding Doors and Frames,08 34 49
+Security Doors and Frames,08 34 53
+Security Gates,08 34 56
+File Room Doors and Frames,08 34 58
+Vault Doors and Day Gates,08 34 59
+Sound Control Door Assemblies,08 34 73
+Folding Doors,08 35 13
+Folding Grilles,08 35 16
+Sectional Doors,08 36 13
+Single-Panel Doors,08 36 16
+Multi-Leaf Vertical Lift Doors,08 36 19
+Telescoping Vertical Lift Doors,08 36 23
+Flexible Strip Doors,08 38 13
+Flexible Traffic Doors,08 38 16
+Rigid Traffic Doors,08 38 19
+Airtight Doors,08 39 13
+Watertight Doors,08 39 19
+Tornado Resistant Door Assemblies,08 39 23
+Blast-Resistant Doors,08 39 53
+Aluminum-Framed Entrances and Storefronts,08 41 13
+Bronze-Framed Entrances and Storefronts,08 41 16
+Stainless-Steel-Framed Entrances and Storefronts,08 41 19
+Steel-Framed Entrances and Storefronts,08 41 23
+All-Glass Entrances and Storefronts,08 41 26
+Aluminum-Framed Entrances,08 42 13
+All-Glass Entrances,08 42 26
+Automatic Entrances,08 42 29
+Revolving Door Entrances,08 42 33
+Balanced Door Entrances,08 42 36
+Pressure-Resistant Entrances,08 42 39
+Intensive Care Unit/Critical Care Unit Entrances,08 42 43
+Timber-Framed Storefronts,08 43 11
+Aluminum-Framed Storefronts,08 43 13
+Bronze-Framed Storefronts,08 43 16
+Stainless-Steel-Framed Storefronts,08 43 19
+Steel-Framed Storefronts,08 43 23
+All-Glass Storefronts,08 43 26
+Channel Glass Storefronts,08 43 27
+Sliding Storefronts,08 43 29
+Glazed Timber Curtain Walls,08 44 11
+Glazed Composite Curtain Wall,08 44 12
+Glazed Aluminum Curtain Walls,08 44 13
+Glazed Bronze Curtain Walls,08 44 16
+Glazed Steel Curtain Walls,08 44 18
+Glazed Stainless-Steel Curtain Walls,08 44 19
+Structural Sealant Glazed Curtain Walls,08 44 23
+Structural Glass Curtain Walls,08 44 26
+Sloped Glazing Assemblies,08 44 33
+Structured-Polycarbonate-Panel Assemblies,08 45 13
+Fiberglass-Sandwich-Panel Assemblies,08 45 23
+Aluminum Windows,08 51 13
+Bronze Windows,08 51 16
+Stainless-Steel Windows,08 51 19
+Steel Windows,08 51 23
+Metal Window Screens,08 51 66
+Metal Storm Windows,08 51 69
+Metal-Clad Wood Windows,08 52 13
+Plastic-Clad Wood Windows,08 52 16
+Wood Window Screens,08 52 66
+Wood Storm Windows,08 52 69
+Vinyl Windows,08 53 13
+Vinyl Window Screens,08 53 66
+Vinyl Storm Windows,08 53 69
+Fiberglass Windows,08 54 13
+Fiberglass Window Screens,08 54 66
+Fiberglass Storm Windows,08 54 69
+Vinyl-Wood Composite Windows,08 54 73
+Tornado-Resistant Windows,08 55 13
+Blast-Resistant Windows,08 55 23
+Pass Windows,08 56 19
+Radio-Frequency-Interference Shielding Windows,08 56 46
+Radiation Shielding Windows,08 56 49
+Security Windows,08 56 53
+Security Window Screens,08 56 56
+Service and Teller Window Units,08 56 59
+Sound Control Windows,08 56 73
+Interior Insulating Windows,08 56 88
+Metal Roof Windows,08 61 13
+Wood Roof Windows,08 61 16
+Domed Unit Skylights,08 62 13
+Pyramidal Unit Skylights,08 62 16
+Vaulted Unit Skylights,08 62 19
+Tubular Skylights,08 62 23
+Domed Metal-Framed Skylights,08 63 13
+Pyramidal Metal-Framed Skylights,08 63 16
+Vaulted Metal-Framed Skylights,08 63 19
+Ridge Metal-Framed Skylights,08 63 23
+Motorized Metal-Framed Skylights,08 63 53
+Suspended Glazed Canopies,08 65 13
+Automatic Door Operators,08 71 13
+Security Door Hardware,08 71 53
+Non-Integrated Card Key Access Control Hardware,08 74 13
+Non-Integrated Keypad Access Control Hardware,08 74 16
+Non-Integrated Biometric Identity Access Control Hardware,08 74 19
+Automatic Window Equipment,08 75 13
+Window Operators,08 75 16
+Key Storage Equipment,08 79 13
+Decorative Glass Glazing,08 81 13
+Exterior Glass Glazing,08 81 23
+Interior Glass Glazing,08 81 26
+Mirrored Glass Glazing,08 83 13
+Mirrored Plastic Glazing,08 83 16
+Decorative Plastic Glazing,08 84 13
+Solar Control Films,08 87 13
+Safety and Security Films,08 87 23
+Bird Control Film,08 87 26
+Decorative Films,08 87 33
+Fire-Resistant Glazing,08 88 13
+Hurricane-Resistant Glazing,08 88 19
+Cable Suspended Glazing,08 88 23
+Transparent Mirrored Glazing,08 88 33
+Switchable Glass,08 88 36
+Pressure-Resistant Glazing,08 88 39
+Radiation-Resistant Glazing,08 88 49
+Security Glazing,08 88 53
+Ballistics-Resistant Glazing,08 88 56
+Motorized Wall Louvers,08 91 13
+Operable Wall Louvers,08 91 16
+Fixed Louvers,08 91 19
+Door Louvers,08 91 26
+Soffit Vents,08 95 13
+Wall Vents,08 95 16
+Explosion Vents,08 95 33
+Flood Vents,08 95 43
+Plaster Assemblies,09 21 13
+Gypsum Board Assemblies,09 21 16
+Metal Furring,09 22 13
+Non-Structural Metal Framing,09 22 16
+Suspension Systems,09 22 26
+Lath,09 22 36
+Veneer Plaster Base,09 22 39
+Acoustical Gypsum Plastering,09 23 13
+Fireproof Gypsum Plastering,09 23 82
+Cement Stucco,09 24 23
+Cement Parging,09 24 33
+Acrylic Plastering,09 25 13
+Lime Based Plastering,09 25 23
+Natural Clay Plastering,09 25 26
+Gypsum Veneer Plastering,09 26 13
+Glass-Fiber-Reinforced Gypsum Fabrications,09 27 13
+Simulated Plaster Fabrications,09 27 23
+Cementitious Backing Boards,09 28 13
+Glass-Mat Faced Gypsum Backing Boards,09 28 16
+Fibered Gypsum Backing Boards,09 28 19
+Gypsum Board Fireproofing,09 29 82
+Ceramic Tiling,09 30 13
+Quarry Tiling,09 30 16
+Paver Tiling,09 30 19
+Glass Mosaic Tiling,09 30 23
+Plastic Tiling,09 30 26
+Metal Tiling,09 30 29
+Stone Tiling,09 30 33
+Concrete Tiling,09 30 36
+Brick Tiling,09 30 39
+Thin-Set Ceramic Tiling,09 31 13
+Thin-Set Quarry Tiling,09 31 16
+Thin-Set Paver Tiling,09 31 19
+Thin-Set Glass Mosaic Tiling,09 31 23
+Thin-Set Plastic Tiling,09 31 26
+Thin-Set Metal Tiling,09 31 29
+Thin-Set Stone Tiling,09 31 33
+Thin-Set Concrete Tiling,09 31 36
+Mortar-Bed Ceramic Tiling,09 32 13
+Mortar-Bed Quarry Tiling,09 32 16
+Mortar-Bed Paver Tiling,09 32 19
+Mortar-Bed Glass Mosaic Tiling,09 32 23
+Mortar-Bed Plastic Tiling,09 32 26
+Mortar-Bed Metal Tiling,09 32 29
+Mortar-Bed Stone Tiling,09 32 33
+Mortar-Bed Concrete Tiling,09 32 36
+Conductive Ceramic Tiling,09 33 13
+Conductive Quarry Tiling,09 33 16
+Conductive Paver Tiling,09 33 19
+Conductive Glass Mosaic Tiling,09 33 23
+Conductive Plastic Tiling,09 33 26
+Conductive Metal Tiling,09 33 29
+Conductive Stone Tiling,09 33 33
+Conductive Concrete Tiling,09 33 36
+Waterproofing-Membrane Ceramic Tiling,09 34 13
+Waterproofing-Membrane Quarry Tiling,09 34 16
+Waterproofing-Membrane Paver Tiling,09 34 19
+Waterproofing-Membrane Glass Mosaic Tiling,09 34 23
+Waterproofing-Membrane Plastic Tiling,09 34 26
+Waterproofing-Membrane Metal Tiling,09 34 29
+Waterproofing-Membrane Stone Tiling,09 34 33
+Waterproofing-Membrane Concrete Tiling,09 34 36
+Chemical-Resistant Ceramic Tiling,09 35 13
+Chemical-Resistant Quarry Tiling,09 35 16
+Chemical-Resistant Paver Tiling,09 35 19
+Chemical-Resistant Glass Mosaic Tiling,09 35 23
+Chemical-Resistant Plastic Tiling,09 35 26
+Chemical-Resistant Metal Tiling,09 35 29
+Chemical-Resistant Stone Tiling,09 35 33
+Chemical-Resistant Concrete Tiling,09 35 36
+Acoustical Panel Ceilings,09 51 13
+Acoustical Fabric-Faced Panel Ceilings,09 51 14
+Acoustical Tile Ceilings,09 51 23
+Acoustical Wood Ceilings,09 51 26
+Acoustical Metal Pan Ceilings,09 51 33
+Direct-Applied Acoustical Ceilings,09 51 53
+Curved Profile Ceiling Suspension Assemblies,09 53 13
+Metal Acoustical Ceiling Suspension Assemblies,09 53 23
+Plastic Acoustical Ceiling Suspension Assemblies,09 53 33
+Open Metal Mesh Ceilings,09 54 13
+Luminous Ceilings,09 54 16
+Mirror Panel Ceilings,09 54 19
+Metal Pan Ceilings,09 54 21
+Linear Metal Ceilings,09 54 23
+Suspended Wood Ceilings,09 54 26
+Suspended Plastic Ceilings,09 54 29
+Decorative Panel Ceilings,09 54 33
+Suspended Decorative Grids,09 54 36
+Stretched-Fabric Ceiling Systems,09 54 43
+Fabric-Wrapped Ceiling Panels,09 54 46
+Fiberglass Reinforced Panel Ceilings,09 54 53
+Gypsum-Panel Textured Ceilings,09 56 13
+Metal-Panel Textured Ceilings,09 56 16
+Plastic-Panel Textured Ceilings,09 56 19
+Security Ceiling Assemblies,09 57 53
+Slip-Resistant Flooring Treatment,09 61 13
+Concrete Floor Staining,09 61 19
+Static-Resistant Flooring Treatment,09 61 36
+Asphaltic Plank Flooring,09 62 13
+Concrete Plank Flooring,09 62 16
+Laminate Flooring,09 62 19
+Leather Flooring,09 62 26
+Cork Flooring,09 62 29
+Acid-Resistant Flooring,09 62 35
+Acoustic Flooring,09 62 48
+Synthetic Turf Flooring,09 62 53
+Metal Flooring,09 62 63
+Structural Glass Flooring,09 62 83
+Brick Flooring,09 63 13
+Stone Flooring,09 63 40
+Composition Stone Flooring,09 63 43
+Wood Block Flooring,09 64 16
+Wood Composition Flooring,09 64 19
+Wood Parquet Flooring,09 64 23
+Wood Strip and Plank Flooring,09 64 29
+Laminated Wood Flooring,09 64 33
+Bamboo Flooring,09 64 36
+Resilient Wood Flooring Assemblies,09 64 53
+Wood Athletic Flooring,09 64 66
+Resilient Base and Accessories,09 65 13
+Resilient Sheet Flooring,09 65 16
+Resilient Tile Flooring,09 65 19
+Conductive Resilient Flooring,09 65 33
+Static-Control Resilient Flooring,09 65 36
+Linoleum Flooring,09 65 43
+Resilient Athletic Flooring,09 65 66
+Portland Cement Terrazzo Flooring,09 66 13
+Terrazzo Floor Tile,09 66 16
+Resinous Matrix Terrazzo Flooring,09 66 23
+Conductive Terrazzo Flooring,09 66 33
+Elastomeric Liquid Flooring,09 67 13
+Epoxy-Marble Chip Flooring,09 67 16
+Magnesium-Oxychloride Flooring,09 67 19
+Resinous Flooring,09 67 23
+Quartz Flooring,09 67 26
+Fluid-Applied Athletic Flooring,09 67 66
+Tile Carpeting,09 68 13
+Sheet Carpeting,09 68 16
+Rigid-Grid Access Flooring,09 69 13
+Snap-on Stringer Access Flooring,09 69 16
+Stringerless Access Flooring,09 69 19
+Low-Profile Fixed Height Access Flooring,09 69 33
+Access Flooring Accessories,09 69 53
+Access Flooring Stairs and Stringers,09 69 56
+Cork Wall Coverings,09 72 13
+Vinyl-Coated Fabric Wall Coverings,09 72 16
+Textile Wall Coverings,09 72 19
+Wallpapering,09 72 23
+Wood Wall Coverings,09 74 13
+Flexible Wood Veneers,09 74 16
+Stone Wall Facing,09 75 13
+Stone Trim,09 75 19
+Simulated Stone Wall Facing,09 75 23
+Stretched-Fabric Wall Systems,09 77 13
+Fabric-Wrapped Panels,09 77 23
+Surfacing Films,09 77 26
+Terrazzo Wall Finish,09 77 33
+Vegetated Wall Systems,09 77 53
+Metal Interior Wall Paneling,09 78 13
+Stone-Faced Interior Wall Paneling,09 78 16
+Cementitious Interior Wall Paneling,09 78 19
+Phenolic Interior Wall Paneling,09 78 23
+Plastic Interior Wall Paneling,09 78 26
+Acoustic Board Insulation,09 81 13
+Acoustic Blanket Insulation,09 81 16
+Sprayed Acoustic Insulation,09 81 29
+Acoustic Wall Coating,09 83 13
+Acoustic Ceiling Coating,09 83 16
+Acoustic Drapery,09 83 22
+Fixed Sound-Absorptive Panels,09 84 13
+Acoustic Stretched-Fabric Wall Systems,09 84 14
+Fixed Sound-Reflective Panels,09 84 16
+Moveable Sound-Absorptive Panels,09 84 23
+Moveable Sound-Reflective Panels,09 84 26
+Sound-Absorbing Wall Units,09 84 33
+Sound-Absorbing Ceiling Units,09 84 36
+Exterior Painting,09 91 13
+Interior Painting,09 91 23
+Exterior Staining and Finishing,09 93 13
+Interior Staining and Finishing,09 93 23
+Textured Finishing,09 94 13
+Faux Finishing,09 94 16
+Multicolor Interior Finishing,09 94 19
+Gilding,09 94 23
+Abrasion-Resistant Coatings,09 96 13
+Graffiti-Resistant Coatings,09 96 23
+Marine Coatings,09 96 26
+High-Temperature-Resistant Coatings,09 96 33
+Chemical-Resistant Coatings,09 96 35
+Fire-Retardant Coatings,09 96 43
+Intumescent Painting,09 96 46
+Elastomeric Coatings,09 96 53
+Epoxy Coatings,09 96 56
+High-Build Glazed Coatings,09 96 59
+Textured Plastic Coatings,09 96 63
+Aggregate Wall Coatings,09 96 66
+Steel Coatings,09 97 13
+Concrete and Masonry Coatings,09 97 23
+Cementitious Coatings,09 97 26
+Dry Erase Coatings,09 97 35
+Selective Tree and Shrub Removal,31 13 13
+Selective Tree and Shrub Trimming,31 13 16
+Soil Stripping and Stockpiling,31 14 13
+Sod Stripping and Stockpiling,31 14 16
+Radon Mitigation,31 21 13
+Methane Mitigation,31 21 16
+Rough Grading,31 22 13
+Fine Grading,31 22 16
+Finish Grading,31 22 19
+Subgrade Preparation,31 23 13
+Excavation,31 23 16
+Dewatering,31 23 19
+Fill,31 23 23
+Trenching and Backfilling,31 23 33
+Roadway Embankments,31 24 13
+Railway Embankments,31 24 16
+Stabilization Measures for Erosion and Sedimentation Control,31 25 14
+Structural Measures for Erosion and Sedimentation Control,31 25 24
+Retention Measures for Erosion and Sedimentation Controls,31 25 34
+Rodent Control,31 31 13
+Termite Control,31 31 16
+Vegetation Control,31 31 19
+Sanitary Vacuum System Piping,31 31 33
+Soil Mixing Stabilization,31 32 13
+Chemical Treatment Soil Stabilization,31 32 16
+Water Injection Soil Stabilization,31 32 17
+Geosynthetic Soil Stabilization and Layer Separation,31 32 19
+Pressure Grouting Soil Stabilization,31 32 23
+Shotcrete Soil Slope Stabilization,31 32 33
+Soil Nailing,31 32 36
+Rock Bolting and Grouting,31 33 13
+Rock Slope Netting,31 33 23
+Rock Slope Wire Mesh,31 33 26
+Shotcrete Rock Slope Stabilization,31 33 33
+Vegetated Rock Slope Stabilization,31 33 43
+Geosynthetic Soil Reinforcement,31 34 19
+Fiber Soil Reinforcement,31 34 23
+Geosynthetic Slope Protection,31 35 19
+Slope Protection with Slope Paving,31 35 23
+Containment Barriers,31 35 26
+Gabion Boxes,31 36 13
+Gabion Mattresses,31 36 19
+Machined Riprap,31 37 13
+Non-Machined Riprap,31 37 16
+Timber Shoring,31 41 13
+Sheet Piling,31 41 16
+Metal Hydraulic Shoring,31 41 19
+Pneumatic Shoring,31 41 23
+Trench Shielding,31 41 33
+Pressure Grouting,31 43 13
+Compaction Grouting,31 43 16
+Mechanical Jacking,31 43 19
+Vibroflotation,31 45 13
+Densification,31 45 16
+Cantilever Needle Beams,31 46 13
+Underpinning Piers,31 48 13
+Bracket Piers,31 48 19
+Jacked Piers,31 48 23
+Micropile Underpinning,31 48 33
+Excavation Soil Anchors,31 51 13
+Excavation Rock Anchors,31 51 16
+Sheet Piling Cofferdams,31 52 13
+Timber Cofferdams,31 52 16
+Precast Concrete Cofferdams,31 52 19
+Timber Cribwork,31 53 13
+Bentonite Slurry Walls,31 56 13
+Attipulgite Slurry Walls,31 56 16
+Slurry-Geomembrane Composite Slurry Walls,31 56 19
+Lean Concrete Slurry Walls,31 56 23
+Bio-Polymer Trench Drain,31 56 26
+Concrete Piles,31 62 13
+Steel Piles,31 62 16
+Timber Piles,31 62 19
+Composite Piles,31 62 23
+Bored and Augered Test Piles,31 63 13
+Auger Cast Grout Piles,31 63 16
+Bored and Socketed Piles,31 63 19
+Bored Concrete Piles,31 63 23
+Drilled Caissons,31 63 26
+Drilled Concrete Piers and Shafts,31 63 29
+Drilled Micropiles,31 63 33
+Box Caissons,31 64 13
+Excavated Caissons,31 64 16
+Floating Caissons,31 64 19
+Open Caissons,31 64 23
+Pneumatic Caissons,31 64 26
+Sheeted Caissons,31 64 29
+Special Piles,31 66 13
+Helical Foundation Piles,31 66 15
+Special Foundation Walls,31 66 16
+Refrigerated Foundations,31 66 19
+Rock Foundation Anchors,31 68 13
+Helical Foundation Anchors,31 68 16
+Shield Driving Tunnel Excavation,31 71 13
+Tunnel Excavation by Drilling and Blasting,31 71 16
+Tunnel Excavation by Tunnel Boring Machine,31 71 19
+Tunneling by Cut and Cover,31 71 23
+Rock Reinforcement and Initial Support,31 72 13
+Steel Ribs and Lagging,31 72 16
+Cement Tunnel Grouting,31 73 13
+Chemical Tunnel Grouting,31 73 16
+Cast-in-Place Concrete Tunnel Lining,31 74 13
+Precast Concrete Tunnel Lining,31 74 16
+Shotcrete Tunnel Lining,31 74 19
+Cast-in-Place Concrete Shaft Lining,31 75 13
+Precast Concrete Shaft Lining,31 75 16
+Trench Excavation for Submerged Tunnels,31 77 13
+Tube Construction (Outfitting Tunnel Tubes),31 77 16
+Floating and Laying Submerged Tunnels,31 77 19
+Subgrade Modifications,32 11 13
+Subbase Courses,32 11 16
+Aggregate Base Courses,32 11 23
+Asphaltic Base Courses,32 11 26
+Lime Treated Base Courses,32 11 29
+Cement-Treated Base Courses,32 11 33
+Concrete Base Courses,32 11 36
+Shell Base Course,32 11 39
+Preparatory Coats,32 12 13
+Asphalt Paving,32 12 16
+Asphalt Paving Wearing Courses,32 12 19
+Flexible Paving Surface Treatments,32 12 33
+Seal Coats,32 12 36
+Porous Flexible Paving,32 12 43
+Asphalt Paving Joint Sealants,32 12 73
+Concrete Paving,32 13 13
+Decorative Concrete Paving,32 13 16
+Pervious Concrete Paving,32 13 43
+Concrete Paving Joint Sealants,32 13 73
+Precast Concrete Unit Paving,32 14 13
+Brick Unit Paving,32 14 16
+Asphalt Unit Paving,32 14 23
+Wood Paving,32 14 26
+Rubber Paving,32 14 29
+Plastic Paving,32 14 33
+Stone Paving,32 14 40
+Porous Unit Paving,32 14 43
+Cinder Surfacing,32 15 13
+Crushed Stone Surfacing,32 15 40
+Aggregate-Turf Pavement,32 15 50
+Curbs and Gutters,32 16 13
+Sidewalks,32 16 23
+Driveways,32 16 33
+Parking Bumpers,32 17 13
+Manufactured Traffic-Calming Devices,32 17 16
+Pavement Markings,32 17 23
+Tactile Warning Surfacing,32 17 26
+Pavement Embedded Warning Lights,32 17 29
+Pavement Snow Melting Systems,32 17 43
+Synthetic Grass Surfacing,32 18 13
+Synthetic Resilient Surfacing,32 18 16
+Athletic Surfacing,32 18 23
+Gate Operators,32 31 11
+Chain Link Fences and Gates,32 31 13
+Welded Wire Fences and Gates,32 31 16
+Expanded Metal Fences and Gates,32 31 17
+Decorative Metal Fences and Gates,32 31 19
+Plastic Fences and Gates,32 31 23
+Wire Fences and Gates,32 31 26
+Wood Fences and Gates,32 31 29
+Composite Fences and Gates,32 31 32
+Cattle Guards,32 31 53
+Wild Life Deterrent Fence,32 31 56
+Cast-in-Place Concrete Retaining Walls,32 32 13
+Precast Concrete Retaining Walls,32 32 16
+Unit Masonry Retaining Walls,32 32 19
+Segmental Retaining Walls,32 32 23
+Metal Crib Retaining Walls,32 32 26
+Timber Retaining Walls,32 32 29
+Reinforced Soil Retaining Walls,32 32 34
+Gabion Retaining Walls,32 32 36
+Soldier-Beam Retaining Walls,32 32 43
+Stone Retaining Walls,32 32 53
+Site Bicycle Racks,32 33 13
+Site Bicycle Lockers,32 33 14
+Site Bicycle Shelters,32 33 15
+Site Trash and Litter Receptacles,32 33 23
+Site Manufactured Planters,32 33 33
+Site Seating and Tables,32 33 43
+Fabricated Pedestrian Bridges,32 34 13
+Fabricated Roadway Bridges,32 34 23
+Fabricated Railway Bridges,32 34 33
+Screens and Louvers,32 35 13
+Sound Barriers,32 35 16
+Fire Barriers,32 35 23
+Blast Barriers,32 35 26
+Manufactured Metal Bollards,32 39 13
+Manufactured Fire Pits,32 39 16
+Artificial Rock Fabrications,32 39 33
+Irrigation Intake Screens,32 81 13
+Drip Irrigation,32 84 13
+Underground Sprinklers,32 84 23
+Soil Preparation,32 91 13
+Planting Soil Stabilization,32 91 16
+Landscape Grading,32 91 19
+Hydro-Mulching,32 92 13
+Plugging,32 92 16
+Seeding,32 92 19
+Sodding,32 92 23
+Sprigging,32 92 26
+Ground Covers,32 93 13
+Plants and Bulbs,32 93 23
+Shrubs,32 93 33
+Trees,32 93 43
+Exterior Artificial Plants,32 93 93
+Landscape Edging,32 94 13
+Landscape Timbers,32 94 16
+Landscape Surfacing,32 94 19
+Planters,32 94 33
+Tree Grates,32 94 43
+Tree Grids,32 94 46
+Ground Cover Transplanting,32 96 13
+Plant and Bulb Transplanting,32 96 23
+Shrub Transplanting,32 96 33
+Tree Transplanting,32 96 43
+Concrete Slip Forming,03 11 13.13
+Concrete Shoring,03 11 13.16
+Falsework,03 11 13.19
+Concrete Form Liners,03 11 16.13
+Non-Expanding Waterstops,03 15 13.13
+Expanding Waterstops,03 15 13.16
+Combination Expanding and Injection Hose Waterstops,03 15 13.19
+Injection Hose Waterstops,03 15 13.21
+Glass Fiber-Reinforced Polymer Reinforcement Bars,03 21 21.11
+Organic Fiber-Reinforced Polymer Reinforcement Bars,03 21 21.13
+Carbon Fiber-Reinforced Polymer Reinforcement Bars,03 21 21.16
+Polished and Dyed Concrete Finishing,03 35 43.13
+Polished and Stained Concrete Finishing,03 35 43.16
+Chemical Compound Membrane Concrete Curing,03 39 23.13
+Sheet Membrane Concrete Curing,03 39 23.23
+Precast Concrete Security Bollards,03 48 13.11
+Lightweight Cellular Insulating Concrete,03 52 16.13
+Lightweight Aggregate Insulating Concrete,03 52 16.16
+Chemical-Resistant Masonry Mortaring,04 05 13.16
+Epoxy Masonry Mortaring,04 05 13.19
+Surface Bonding Masonry Mortaring,04 05 13.23
+Engineered Masonry Mortaring,04 05 13.26
+Refractory Masonry Mortaring,04 05 13.29
+Masonry Restoration Mortaring,04 05 13.91
+Chemical-Resistant Masonry Grouting,04 05 16.16
+Engineered Masonry Grouting,04 05 16.26
+Continuous Joint Reinforcing,04 05 19.13
+Masonry Anchors,04 05 19.16
+Masonry Reinforcing Bars,04 05 19.26
+Stone Anchors,04 05 19.29
+Masonry Control and Expansion Joints,04 05 23.13
+Masonry Embedded Flashing,04 05 23.16
+"Masonry Cavity Drainage, Weepholes, and Vents",04 05 23.19
+Brick Veneer Masonry,04 21 13.13
+Surface-Bonded Brick Masonry,04 21 13.23
+Concrete Unit Veneer Masonry,04 22 .13
+Surface-Bonded Concrete Unit Masonry,04 22 .16
+Exposed Aggregate Concrete Unit Masonry,04 22 23.13
+Fluted Concrete Unit Masonry,04 22 23.16
+Molded-Face Concrete Unit Masonry,04 22 23.19
+Prefaced Concrete Unit Masonry,04 22 23.23
+Sound-Absorbing Concrete Unit Masonry,04 22 23.26
+Split-Face Concrete Unit Masonry,04 22 23.29
+Anchored Stone Masonry Veneer,04 43 13.13
+Adhered Stone Masonry Veneer,04 43 13.16
+Vertical Metal Ladders,05 51 33.13
+Inclined Metal Ladders,05 51 33.16
+Alternating Tread Ladders,05 51 33.23
+Metal Catwalks,05 51 36.13
+Metal Ramps,05 51 36.16
+Metal Platforms,05 51 36.19
+Period Horizontal Log Work,06 13 13.91
+Carvel Planking,06 15 13.91
+Foam Board Insulation,07 21 13.13
+Fibrous Board Insulation,07 21 13.16
+Mineral Board Insulation,07 21 13.19
+Fiberglass-Reinforced Asphalt Shingles,07 31 13.13
+Wood Shingles,07 31 29.13
+Wood Shakes,07 31 29.16
+Formed Metal Wall Panels,07 42 13.13
+Metal Plate Wall Panels,07 42 13.16
+Insulated Metal Wall Panels,07 42 13.19
+Metal Composite Material Wall Panels,07 42 13.23
+Wood Shingle Siding,07 46 24.13
+Wood Shake Siding,07 46 24.16
+Cold-Applied Built-Up Asphalt Roofing,07 51 13.13
+Cold Adhesive Applied Atactic-Polypropylene-Modified Bituminous Membrane Roofing,07 52 13.11
+Torch-Applied Atactic-Polypropylene-Modified Bituminous Membrane Roofing,07 52 13.13
+Mechanically Fastened Atactic-Polypropylene-Modified Bituminous Membrane Roofing,07 52 13.14
+Cold Adhesive Styrene-Butadiene-Styrene Modified Bituminous Membrane Roofing,07 52 16.11
+Hot-Mopped Styrene-Butadiene-Styrene Modified Bituminous Membrane Roofing,07 52 16.12
+Torch-Applied Styrene-Butadiene-Styrene Modified Bituminous Membrane Roofing,07 52 16.13
+Mechanically Fastened Styrene-Butadiene-Styrene Modified Bituminous,07 52 16.14
+Hot-Applied Rubberized Asphalt Protected Membrane Roofing,07 55 56.13
+Gutter Debris Guards,07 71 23.13
+Penetration Firestopping Mortars,07 84 13.13
+Penetration Firestopping Devices,07 84 13.16
+Interior Expansion Joint Cover Assemblies,07 95 13.13
+Exterior Expansion Joint Cover Assemblies,07 95 13.16
+Parking Deck Expansion Joint Cover Assemblies,07 95 13.19
+Standard Hollow Metal Doors and Frames,08 11 13.13
+Custom Hollow Metal Doors and Frames,08 11 13.16
+Steel Screen and Storm Doors and Frames,08 11 63.13
+Aluminum Screen and Storm Doors and Frames,08 11 63.23
+Steel Screen Doors and Frames,08 11 66.13
+Aluminum Screen Doors and Frames,08 11 66.23
+Steel Storm Doors and Frames,08 11 69.13
+Aluminum Storm Doors and Frames,08 11 69.23
+Standard Hollow Metal Frames,08 12 13.13
+Custom Hollow Metal Frames,08 12 13.53
+Fire-Rated Aluminum Frames,08 12 16.13
+Standard Hollow Metal Doors,08 13 13.13
+Custom Hollow Metal Doors,08 13 13.53
+Aluminum Terrace Doors,08 13 16.13
+Metal-Faced Wood Doors,08 14 23.13
+Plastic-Laminate-Faced Wood Doors,08 14 23.16
+Plastic-Faced Wood Doors,08 14 23.17
+Molded-Hardboard-Faced Wood Doors,08 14 23.19
+Wood Terrace Doors,08 14 33.13
+Security Access Doors and Frames,08 31 13.53
+Overhead Rapid Coiling Doors,08 33 23.13
+Neutron Shielding Doors and Frames,08 34 49.13
+Metal Sound Control Door Assemblies,08 34 73.13
+Wood Sound Control Door Assemblies,08 34 73.16
+Accordion Folding Doors,08 35 13.13
+Accordion Folding Fire Doors,08 35 13.23
+Panel Folding Doors,08 35 13.33
+Accordion Folding Grilles,08 35 16.13
+Fire-Rated Aluminum-Framed Entrances and Storefronts,08 41 13.13
+Point Supported All-Glass Storefronts,08 41 26.13
+Folding Automatic Entrances,08 42 29.13
+Sliding Automatic Entrances,08 42 29.23
+Swinging Automatic Entrances,08 42 29.33
+Security Revolving Door Entrances,08 42 33.13
+Fire-Rated Aluminum Storefronts,08 43 13.13
+Glazed Fiberglass Curtain Wall,08 44 12.13
+Glass Framed Point Supported Glass Curtain Walls,08 44 26.13
+Metal Framed Point Supported Glass Curtain Walls,08 44 26.16
+Cable Framed Point Supported Glass Curtain Walls,08 44 26.23
+Hot-Rolled Steel Windows,08 51 23.13
+Cold-Rolled Steel Windows,08 51 23.23
+Safety Films,08 87 23.13
+Security Films,08 87 23.16
+Electronically Controlled Switchable Glass,08 88 36.16
+Gypsum Board Shaft Wall Assemblies,09 21 16.23
+Gypsum Board Area Separation Wall Assemblies,09 21 16.33
+Metal Channel Furring,09 22 13.13
+Resilient Channel Furring,09 22 13.23
+Non-Structural Metal Stud Framing,09 22 16.13
+Metal Suspension Systems,09 22 26.23
+Plastic Suspension Systems,09 22 26.33
+Gypsum Lath,09 22 36.13
+Metal Lath,09 22 36.23
+Acrylic Plaster Finish,09 25 13.13
+Acoustical Snap-in Metal Pan Ceilings,09 51 33.13
+Aluminum Flooring,09 62 63.13
+Stainless Steel Flooring,09 62 63.16
+Chemical-Resistant Brick Flooring,09 63 13.35
+Acrylic-Impregnated Wood Parquet Flooring,09 64 23.13
+Resilient Base,09 65 13.13
+Resilient Stair Treads and Risers,09 65 13.23
+Resilient Stair Nosings,09 65 13.26
+Resilient Accessories,09 65 13.33
+Resilient Carpet Transitions,09 65 13.36
+Vinyl Sheet Flooring,09 65 16.23
+Rubber Sheet Flooring,09 65 16.33
+PVC-Free Sheet Flooring,09 65 16.43
+Vinyl Composition Tile Flooring,09 65 19.19
+Vinyl Tile Flooring,09 65 19.23
+Rubber Tile Flooring,09 65 19.33
+Polyester Composition Tile Flooring,09 65 19.43
+Static-Dissipative Resilient Flooring,09 65 36.13
+Static-Resistant Resilient Flooring,09 65 36.16
+Sand Cushion Terrazzo Flooring,09 66 13.13
+Monolithic Terrazzo Flooring,09 66 13.16
+Bonded Terrazzo Flooring,09 66 13.19
+Palladina Terrazzo Flooring,09 66 13.23
+Rustic Terrazzo Flooring,09 66 13.26
+Structural Terrazzo Flooring,09 66 13.33
+Portland Cement Terrazzo Floor Tile,09 66 16.13
+Plastic-Matrix Terrazzo Floor Tile,09 66 16.16
+Polyacrylate Modified Cementitious Terrazzo Flooring,09 66 23.13
+Epoxy-Resin Terrazzo Flooring,09 66 23.16
+Polyester-Resin Terrazzo Flooring,09 66 23.19
+Conductive Epoxy-Resin Terrazzo,09 66 33.13
+Conductive Polyester-Resin Terrazzo Flooring,09 66 33.16
+Conductive Plastic-Matrix Terrazzo Flooring,09 66 33.19
+Conductive Elastomeric Liquid Flooring,09 67 13.33
+Flexible Vinyl Wall Coverings,09 72 16.13
+Rigid-Sheet Vinyl Wall Coverings,09 72 16.16
+Stone Base,09 75 19.13
+Stone Window Stools,09 75 19.23
+Exterior Staining,09 93 13.13
+Exterior Finishing,09 93 13.53
+Interior Staining,09 93 23.13
+Interior Finishing,09 93 23.53
+Interior Steel Coatings,09 97 13.13
+Exterior Steel Coatings,09 97 13.23
+Steel Water Storage Tank Painting,09 97 13.24
+Concrete Water Storage Tank Painting,09 97 23.24
+Interior Cementitious Coatings,09 97 26.13
+Exterior Cementitious Coatings,09 97 26.23
+Soil Stripping,31 14 13.13
+Soil Stockpiling,31 14 13.16
+Topsoil Stripping and Stockpiling,31 14 13.23
+Sod Stripping,31 14 16.13
+Sod Stockpiling,31 14 16.16
+Radon Venting,31 21 13.13
+Methane Venting,31 21 16.13
+Roadway Subgrade Reshaping,31 22 16.13
+Spreading and Grading Topsoil,31 22 19.13
+Trenching,31 23 16.13
+Structural Excavation for Minor Structures,31 23 16.16
+Rock Removal,31 23 16.26
+Backfill,31 23 23.13
+Compaction,31 23 23.23
+Flowable Fill,31 23 23.33
+Geofoam,31 23 23.43
+Hydraulically-Applied Erosion Control,31 25 14.13
+Rolled Erosion Control Mats and Blankets,31 25 14.16
+Rock Barriers,31 25 24.13
+Rock Basins,31 25 34.13
+Rodent Control Bait Systems,31 31 13.16
+Rodent Control Traps,31 31 13.19
+Rodent Control Electronic Systems,31 31 13.23
+Rodent Control Repellants,31 31 13.26
+Chemical Termite Control,31 31 16.13
+Termite Control Bait Systems,31 31 16.16
+Termite Control Barriers,31 31 16.19
+Chemical Vegetation Control,31 31 19.13
+Asphalt Soil Stabilization,31 32 13.13
+Cement Soil Stabilization,31 32 13.16
+Lime Soil Stabilization,31 32 13.19
+Fly-Ash Soil Stabilization,31 32 13.23
+Lime-Fly-Ash Soil Stabilization,31 32 13.26
+Polymer Emulsion Soil Stabilization,31 32 16.13
+Geogrid Soil Stabilization,31 32 19.13
+Geotextile Soil Stabilization,31 32 19.16
+Geogrid Layer Separation,31 32 19.19
+Geotextile Layer Separation,31 32 19.23
+Cementitious Pressure Grouting Soil Stabilization,31 32 23.13
+Chemical Pressure Grouting Soil Stabilization,31 32 23.16
+Driven Soil Nailing,31 32 36.13
+Grouted Soil Nailing,31 32 36.16
+Corrosion-Protected Soil Nailing,31 32 36.19
+Jet-Grouted Soil Nailing,31 32 36.23
+Launched Soil Nailing,31 32 36.26
+Geogrid Soil Reinforcement,31 34 19.13
+Geotextile Soil Reinforcement,31 34 19.16
+Geosynthetic Fiber Soil Reinforcement,31 34 23.13
+Geogrid Slope Protection,31 35 19.13
+Geotextile Slope Protection,31 35 19.16
+Slope Protection with Mulch Control Netting,31 35 19.19
+Cast-In-Place Concrete Slope Paving,31 35 23.13
+Precast Concrete Slope Paving,31 35 23.16
+Concrete Unit Masonry Slope Paving,31 35 23.19
+Clay Containment Barriers,31 35 26.13
+Geomembrane Containment Barriers,31 35 26.16
+Bentonite Slurry Trench,31 35 26.23
+Vegetated Gabion Mattresses,31 36 19.13
+Rubble-Stone Riprap,31 37 16.13
+Concrete Unit Masonry Riprap,31 37 16.16
+Sacked Sand-Cement Riprap,31 37 16.19
+Steel Sheet Piling,31 41 16.13
+Plastic Sheet Piling,31 41 16.16
+Aluminum Hydraulic Shoring,31 41 19.13
+Concrete Pressure Grouting,31 43 13.13
+Polyurethane Pressure Grouting,31 43 13.16
+Soil-Bentonite Slurry Walls,31 56 13.13
+Cement-Bentonite Slurry Walls,31 56 13.16
+Slag-Cement-Bentonite Slurry Walls,31 56 13.19
+Soil-Cement-Bentonite Slurry Walls,31 56 13.23
+Pozzolan-Bentonite Slurry Walls,31 56 13.26
+Organically-Modified Bentonite Slurry Walls,31 56 13.29
+Soil-Attipulgite Slurry Walls,31 56 16.13
+Cast-in-Place Concrete Piles,31 62 13.13
+Concrete Displacement Piles,31 62 13.16
+Precast Concrete Piles,31 62 13.19
+Prestressed Concrete Piles,31 62 13.23
+Pressure-Injected Footings,31 62 13.26
+Sheet Steel Piles,31 62 16.13
+Steel H Piles,31 62 16.16
+Unfilled Tubular Steel Piles,31 62 16.19
+Concrete-Filled Steel Piles,31 62 23.13
+Wood and Cast-In-Place Concrete Piles,31 62 23.16
+Rock Sockets for Piles,31 63 19.13
+Bored and Belled Concrete Piles,31 63 23.13
+Bored Friction Concrete Piles,31 63 23.16
+Fixed End Caisson Piles,31 63 26.13
+Concrete Caissons for Marine Construction,31 63 26.16
+Uncased Drilled Concrete Piers,31 63 29.13
+Cased Drilled Concrete Piers,31 63 29.16
+Rammed Aggregate Piles,31 66 13.13
+Anchored Foundation Walls,31 66 16.13
+Concrete Cribbing Foundation Walls,31 66 16.23
+Metal Cribbing Foundation Walls,31 66 16.26
+Manufactured Modular Foundation Walls,31 66 16.33
+Mechanically Stabilized Earth Foundation Walls,31 66 16.43
+Slurry Diaphragm Foundation Walls,31 66 16.46
+Soldier-Beam Foundation Walls,31 66 16.53
+Permanently-Anchored Soldier-Beam Foundation Walls,31 66 16.56
+Lime-Treated Subgrades,32 11 13.13
+Bituminous-Treated Subgrades,32 11 13.16
+Sand-Clay Subbase Courses,32 11 16.13
+Aggregate Subbase Courses,32 11 16.16
+Sand-Clay Base Courses,32 11 23.13
+Base Course Drainage Layers,32 11 23.23
+Plant Mix Asphaltic Base Courses,32 11 26.13
+Road Mix Asphaltic Base Courses,32 11 26.16
+Bituminous-Stabilized Base Courses,32 11 26.19
+Lime-Fly Ash-Treated Base Courses,32 11 29.13
+Portland Cement-Stabilized Base Courses,32 11 33.13
+Soil-Cement Concrete Base Courses,32 11 36.11
+Lean Concrete Base Courses,32 11 36.13
+Plain Cement Concrete Base Courses,32 11 36.16
+Hydraulic Cement Concrete Base Courses,32 11 36.19
+Tack Coats,32 12 13.13
+Asphaltic Tack Coats,32 12 13.16
+Prime Coats,32 12 13.19
+Asphaltic Prime Coats,32 12 13.23
+Plant-Mix Asphalt Paving,32 12 16.13
+Road-Mix Asphalt Paving,32 12 16.16
+Cold-Mix Asphalt Paving,32 12 16.19
+Reinforced Asphalt Paving,32 12 16.23
+Fiber-Modified Asphalt Paving,32 12 16.26
+Polymer-Modified Asphalt Paving,32 12 16.29
+Granulated Rubber-Modified Asphalt Paving,32 12 16.33
+Athletic Asphalt Paving,32 12 16.36
+Road-Mix Asphalt Paving Wearing Courses,32 12 19.13
+Resin-Modified Asphalt Paving Wearing Courses,32 12 19.16
+Porous Friction Asphalt Paving Wearing Courses,32 12 19.19
+Asphaltic Seal and Fog Coats,32 12 36.13
+Coal Tar Seal Coats,32 12 36.16
+Coal Tar Seal Coats with Unvulcanized Rubber,32 12 36.19
+Fuel-Resistant Sealers,32 12 36.23
+Exposed Aggregate Concrete Paving,32 13 13.13
+Power-Compacted Concrete Paving,32 13 13.16
+Roller-Compacted Concrete Paving,32 13 13.17
+Prestressed Concrete Paving,32 13 13.19
+Concrete Paving Surface Treatment,32 13 13.23
+Stained Concrete Paving,32 13 13.26
+Plain Concrete Paving,32 13 13.33
+Patterned Concrete Paving,32 13 16.13
+Imprinted Concrete Paving,32 13 16.19
+Stamped Concrete Paving,32 13 16.23
+Fuel-Resistant Concrete Paving Joint Sealants,32 13 73.13
+Field-Molded Concrete Paving Joint Sealants,32 13 73.16
+Compression Concrete Paving Joint Sealants,32 13 73.19
+Interlocking Precast Concrete Unit Paving,32 14 13.13
+Precast Concrete Unit Paving Slabs,32 14 13.16
+Porous Precast Concrete Unit Paving,32 14 13.19
+Permeable Plastic Paving,32 14 33.13
+Cast-In-Place Concrete Curbs and Gutters,32 16 13.13
+Steel Faced Curbs,32 16 13.16
+Precast Concrete Curbs and Gutters,32 16 13.23
+Asphalt Curbs,32 16 13.33
+Stone Curbs,32 16 13.43
+Metal Parking Bumpers,32 17 13.13
+Plastic Parking Bumpers,32 17 13.16
+Precast Concrete Parking Bumpers,32 17 13.19
+Rubber Parking Bumpers,32 17 13.23
+Wood Parking Bumpers,32 17 13.26
+Painted Pavement Markings,32 17 23.13
+Raised Pavement Markings,32 17 23.23
+Plastic Pavement Markings,32 17 23.33
+Playground Protective Surfacing,32 18 16.13
+Baseball Field Surfacing,32 18 23.13
+Natural Baseball Field Surfacing,32 18 23.16
+Synthetic Baseball Field Surfacing,32 18 23.19
+Field Sport Surfacing,32 18 23.23
+Natural Field Sport Surfacing,32 18 23.26
+Synthetic Field Sport Surfacing,32 18 23.29
+Running Track Surfacing,32 18 23.33
+Natural Running Track Surfacing,32 18 23.36
+Synthetic Running Track Surfacing,32 18 23.39
+Recreational Court Surfacing,32 18 23.43
+Tennis Court Surfacing,32 18 23.53
+Natural Tennis Court Surfacing,32 18 23.56
+Synthetic Tennis Court Surfacing,32 18 23.59
+Equestrian Surfacing,32 18 23.63
+Recreational Court Fences and Gates,32 31 13.23
+Tennis Court Fences and Gates,32 31 13.26
+Tennis Court Wind Breaker,32 31 13.29
+Chain Link Backstops,32 31 13.33
+High-Security Chain Link Fences and Gates,32 31 13.53
+Decorative Metal Security Fences and Gates,32 31 19.53
+Wire Fences with Wood Posts,32 31 26.11
+Wire Fences with Steel Posts,32 31 26.13
+Segmental Concrete Unit Masonry Retaining Walls,32 32 23.13
+Manufactured Modular Walls,32 32 23.16
+Site Seating,32 33 43.13
+Site Tables,32 33 43.53
+Manufactured Metal Security Bollards,32 39 13.11
+Hydro-Punching,32 91 13.13
+Mulching,32 91 13.16
+Planting Soil Mixing,32 91 13.19
+Structural Soil Mixing,32 91 13.23
+Planting Beds,32 91 13.26
+Blanket Planting Soil Stabilization,32 91 16.13
+Mat Planting Soil Stabilization,32 91 16.16
+Netting Planting Soil Stabilization,32 91 16.19
+Topsoil Placement and Grading,32 91 19.13
+Mechanical Seeding,32 92 19.13
+Hydraulic Seeding,32 92 19.16
+Stolonizing,32 92 26.13
