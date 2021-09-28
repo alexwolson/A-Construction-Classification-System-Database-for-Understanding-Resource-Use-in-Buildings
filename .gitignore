@@ -2,3 +2,5 @@
 *.docx
 .ipynb_checkpoints/
 \~\$*
+Conversion/*.csv
+Conversion/*.xlsx
