@@ -1,12 +1,16 @@
 ﻿Building Type,Occupation,Building Code
-Apartment building,Residential,APB
-Institutional (Police Headquarters),Public,INS
-Commercial (Office),Commercial,OFF
-Educational building (University),Educational,EDU
-Single detached,Residential,SND
-Semi detached,Residential,SMD
 Detached accessory dwelling units,Residential,ADU
-Secondary units,Residential,SEC
-Townhouse,Residential,ROW
-"Mixed Use (Residential, Office & Cafe)",Mixed-use,MIX
+Apartment building,Residential,APB
+Educational building (University),Educational,EDU
+Institutional (Police Headquarters),Public,INS
 Laneway Suite,Residential,LNW
+"Mixed Use (Residential, Office & Cafe)",Mixed-use,MIX
+Commercial (Office),Commercial,OFF
+Public Facility,Commercial,PUF
+Townhouse,Residential,ROW
+Secondary units,Residential,SEC
+Semi detached,Residential,SMD
+Semi detached,Residential,SMR
+Single detached,Residential,SND
+Single detached,Residential,SNR
+Townhouse,Residential,TWN
