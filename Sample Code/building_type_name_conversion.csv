@@ -1,16 +1,16 @@
-﻿Building Type,Occupation,Building Code
-Detached accessory dwelling units,Residential,ADU
-Apartment building,Residential,APB
-Educational building (University),Educational,EDU
-Institutional (Police Headquarters),Public,INS
-Laneway Suite,Residential,LNW
-"Mixed Use (Residential, Office & Cafe)",Mixed-use,MIX
-Commercial (Office),Commercial,OFF
-Public Facility,Commercial,PUF
-Townhouse,Residential,ROW
-Secondary units,Residential,SEC
-Semi detached,Residential,SMD
-Semi detached,Residential,SMR
-Single detached,Residential,SND
-Single detached,Residential,SNR
-Townhouse,Residential,TWN
+﻿Building Type,Occupation,Building Code,Type
+Detached accessory dwelling units,Residential,ADU,Other
+Apartment building,Residential,APB,Mid to high rise buildings
+Educational building (University),Educational,EDU,Mid to high rise buildings
+Institutional (Police Headquarters),Public,INS,Mid to high rise buildings
+Laneway Suite,Residential,LNW,Laneway suites
+"Mixed Use (Residential, Office & Cafe)",Mixed-use,MIX,Mid to high rise buildings
+Commercial (Office),Commercial,OFF,Mid to high rise buildings
+Public Facility,Commercial,PUF,Other
+Townhouse,Residential,ROW,Other
+Secondary units,Residential,SEC,Other
+Semi detached,Residential,SMD,Newly constructed single family dwellings
+Semi detached,Residential,SMR,Renovated single family dwellings
+Single detached,Residential,SND,Newly constructed single family dwellings
+Single detached,Residential,SNR,Renovated single family dwellings
+Townhouse,Residential,TWN,Mid to high rise buildings
