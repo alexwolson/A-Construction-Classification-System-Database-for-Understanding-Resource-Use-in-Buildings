@@ -1,16 +1,15 @@
 ﻿Building Type,Occupation,Building Code,Type
-Detached accessory dwelling units,Residential,ADU,Other
 Apartment building,Residential,APB,Mid to high rise buildings
-Educational building (University),Educational,EDU,Mid to high rise buildings
-Institutional (Police Headquarters),Public,INS,Mid to high rise buildings
-Laneway Suite,Residential,LNW,Laneway suites
-"Mixed Use (Residential, Office & Cafe)",Mixed-use,MIX,Mid to high rise buildings
-Commercial (Office),Commercial,OFF,Mid to high rise buildings
-Public Facility,Commercial,PUF,Other
-Townhouse,Residential,ROW,Other
-Secondary units,Residential,SEC,Other
+Commercial,Commercial,OFF,Mid to high rise buildings
+Detached accessory dwelling unit,Residential,ADU,Other
+Educational building,Educational,EDU,Mid to high rise buildings
+Institutional,Public,INS,Mid to high rise buildings
+Laneway suite,Residential,LNW,Laneway suites
+Mixed use,Mixed-use,MIX,Mid to high rise buildings
+Public toilet (public facility),Commercial,PUF,Other
+Renovated semi detached,Residential,SMR,Renovated single family dwellings
+Renovated single detached,Residential,SNR,Renovated single family dwellings
+Secondary unit,Residential,SEC,Other
 Semi detached,Residential,SMD,Newly constructed single family dwellings
-Semi detached,Residential,SMR,Renovated single family dwellings
 Single detached,Residential,SND,Newly constructed single family dwellings
-Single detached,Residential,SNR,Renovated single family dwellings
 Townhouse,Residential,TWN,Mid to high rise buildings
