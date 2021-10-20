@@ -46,6 +46,7 @@ A4040,Pits and Bases
 A4090,Slab-On-Grade Supplementary Components
 A5010,Floor Construction
 A5020,Interior Partitions
+A5030,Ceiling Finishes
 A6010,Building Subdrainage
 A6020,Off-Gassing Mitigation
 A9010,Substructure Excavation
@@ -180,6 +181,8 @@ A5010.10,Floor Structural Frame - A50
 A5010.20,"Floor Decks, Slabs, and Toppings - A50"
 A5010.30,Ramps - A50
 A5020.10,Interior Fixed Partitions - A50
+A5020.20,Interior Partition Supplementary Components
+A5030.10,Plaster and Gypsum Board Finish
 A6010.10,Foundation Drainage
 A6010.20,Underslab Drainage
 A6020.10,Radon Mitigation
