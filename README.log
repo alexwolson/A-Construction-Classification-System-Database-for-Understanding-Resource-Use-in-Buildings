@@ -1,0 +1,39 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.30)  20 APR 2023 12:30
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**README.md
+(./README.md
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+
+./README.md:1: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 W
+     elcome to the Construction Classification System Database for Understan...
+
+? 
+./README.md:1: Emergency stop.
+ ...                                              
+                                                  
+l.1 W
+     elcome to the Construction Classification System Database for Understan...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 18 strings out of 478268
+ 513 string characters out of 5846347
+ 289381 words of memory out of 5000000
+ 18325 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,0n,12p,145b,14s stack positions out of 10000i,1000n,20000p,200000b,200000s
+./README.md:1:  ==> Fatal error occurred, no output PDF file produced!
