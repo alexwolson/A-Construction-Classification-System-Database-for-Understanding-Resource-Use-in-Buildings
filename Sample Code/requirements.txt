@@ -7,7 +7,7 @@ Babel @ file:///tmp/build/80754af9/babel_1607110387436/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
 brotlipy==0.7.0
-certifi==2022.12.7
+certifi==2023.7.22
 cffi @ file:///opt/concourse/worker/volumes/live/a70943eb-ad97-40c6-78c9-98764c1bee07/volume/cffi_1613246936716/work
 chardet @ file:///opt/concourse/worker/volumes/live/7e1102c4-8702-40f2-63d6-f260ce5f85e4/volume/chardet_1607706831384/work
 cryptography @ file:///opt/concourse/worker/volumes/live/d5dda287-c0b3-4861-7262-fab05baa64dc/volume/cryptography_1616769284011/work
